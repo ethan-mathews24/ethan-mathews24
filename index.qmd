@@ -1,5 +1,5 @@
 ---
-title: "Ethan Mathews"
+# title: "Ethan Mathews"
 image: media/profilepic1.png
 2toc: false
 about: 
