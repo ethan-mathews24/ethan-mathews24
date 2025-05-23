@@ -1,9 +1,11 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - files/resume.pdf
 
 website:
-  title: "ethan-mathews24"
+  title: "Ethan Mathews"
   navbar:
     left:
       - href: index.qmd

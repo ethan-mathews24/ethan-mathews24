@@ -1,11 +1,32 @@
 ---
-title: "ethan-mathews24"
+title: "Ethan Mathews"
+image: media/profilepic1.png
+2toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 19em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ethan-mathews-3b544729a/
+    - icon: github
+      text: GitHub
+      href: https://github.com/ethan-mathews24
+    - icon: envelope
+      text: Email
+      href: mailto:ethankmathews@yahoo.com
+    - icon: file-text
+      text: Resume
+      href: files/resume.pdf
+      
 ---
 
-This is a Quarto website.
+Hey there, welcome to my website! My name is Ethan Mathews, and I created this space to showcase my academic work and share a bit of my personal journey. If you have any questions or would like to connect or collaborate, feel free to reach out through the social links I’ve provided.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I’m originally from Omaha, Nebraska, but I’ve spent most of the past 15 years in Encinitas, California,  a completely different environment that helped shape who I am. I’ve always loved being outdoors, whether at the beach or in the mountains. I grew up playing just about every sport, but the one that stuck with me was rugby, which I played for three out of my four years in high school. I considered playing in college, but at that point, I knew I needed to dedicate myself to academics.
 
-```{r}
-1 + 1
-```
+Fast forward to now, I’m graduating from UC Santa Barbara with a Bachelor of Arts in Environmental Studies. I’ve maintained a competitive GPA throughout my academic journey and focused on applying what I learn to real-world issues. My time at UCSB has been about more than just coursework; I’ve developed practical skills, built meaningful relationships with professors and mentors, and sought out opportunities to leverage my education to align with my long-term goals.
+
+I’m incredibly passionate about water management and sustainability. With an interdisciplinary background, I’m driven to influence environmental policy and help shape a more sustainable future. My next step is applying to UC Berkeley School of Law, where I hope to continue bridging the gap between science, policy, and the communities most affected by environmental challenges.
+
