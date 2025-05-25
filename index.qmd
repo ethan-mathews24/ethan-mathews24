@@ -1,7 +1,6 @@
 ---
-# title: "Ethan Mathews"
 image: media/profilepic1.png
-2toc: false
+toc: false
 about: 
   template: jolla
   image-shape: round
