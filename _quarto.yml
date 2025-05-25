@@ -3,16 +3,26 @@ project:
   output-dir: docs
   resources:
     - files/resume.pdf
+    - websitematerial/**
 
 website:
   title: "Ethan Mathews"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: home
-      - about me.qmd
-      - projects.qmd
-      - past adventures.qmd
+      - text: about me
+        menu:
+          - text: pets
+            href: pets.qmd
+          - text: hobbies
+            href: hobbies.qmd
+          - text: true passion
+            href: true-passion.qmd
+      - href: projects.qmd
+        text: projects
+      - href: past-adventures.qmd
+        text: past adventures
 
 format:
   html:
