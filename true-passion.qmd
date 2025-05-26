@@ -1,16 +1,27 @@
 ---
-title: "true passion"
-format: html
+filters:
+  - lightbox
+lightbox: auto
+freeze: auto
+format:
+  html:
+    toc: false
 ---
 
-::: {.text-center}
+::: {layout="[[1, 1, 1, 1]]"}
+![](media/lagoon.jpg){group="passion" description="UCSB Campus Lagoon" width="200"}
 
+![](media/lizard.jpg){group="passion" description="Lizard's Mouth, SB" width="113"}
+
+![](media/rocks.jpg){group="passion" description="Sperling Preserve" width="113"}
+
+![](media/tidalzone.jpg){group="passion" description="Coal Oil Point - Golden Hour" width="200"}
+:::
+
+::: text-center
 My passion for the environment started during the pandemic. I began noticing how the natural world responded when human activity stopped, cleaner skies, quieter streets, and a sense of balance slowly returned. It hit me hard: we are the ones disrupting this planet, and it shouldn’t have taken a global pandemic for me to realize that. That moment shifted everything for me. I changed my career path from Sports Medicine to Environmental Studies and haven’t looked back since. My dad used to joke with cashiers by saying, “Save a tree,” when we checked out. I used to laugh it off, but when I asked him about it, he’d say that even the smallest actions matter when it comes to reducing our carbon footprint. That lesson didn’t fully land until I saw the world pause during COVID-19. When classes resumed to be in person after COVID-19 at my community college, I enrolled in an oceanography and physical geography course and was immediately hooked.
 
 What drew me in most was the interdisciplinary nature of the field. There’s a huge disconnect between what’s happening in the world and how people perceive it, and I wanted to bridge that gap. My time as an undergraduate at UCSB has been enriching. I have been able to contribute to PhD research through a qualitative and data acquisition lens. Still, learning more about what goes into research and the required technical skills, I have become more interested in the field's data science and management side, which could be a possible avenue I would like to explore in the future.
 
 Since transferring to UCSB, I’ve gravitated toward water resource management. Many people still lack access to clean, fresh water, and although water is often labeled a renewable resource, our current usage and policies say otherwise. I’m motivated to help reshape how we regulate and protect it because equitable access to water isn’t optional; it’s essential.
-::::
-
-
-------------------------------------------------------------------------
+:::

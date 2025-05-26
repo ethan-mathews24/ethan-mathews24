@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>true passion – Ethan Mathews</title>
+<title>true-passion – Ethan Mathews</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -41,6 +41,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -73,7 +76,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -133,39 +136,53 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">true passion</h1>
+
+
+
+<div>
+
 </div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
+<div class="quarto-layout-panel" data-layout="[[1, 1, 1, 1]]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
+<p><a href="media/lagoon.jpg" class="lightbox" data-gallery="passion" data-glightbox="description: .lightbox-desc-1;"><img src="media/lagoon.jpg" class="img-fluid" width="200"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
+<p><a href="media/lizard.jpg" class="lightbox" data-gallery="passion" data-glightbox="description: .lightbox-desc-2;"><img src="media/lizard.jpg" class="img-fluid" width="113"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
+<p><a href="media/rocks.jpg" class="lightbox" data-gallery="passion" data-glightbox="description: .lightbox-desc-3;"><img src="media/rocks.jpg" class="img-fluid" width="113"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
+<p><a href="media/tidalzone.jpg" class="lightbox" data-gallery="passion" data-glightbox="description: .lightbox-desc-4;"><img src="media/tidalzone.jpg" class="img-fluid" width="200"></a></p>
+</div>
+</div>
+</div>
 <div class="text-center">
 <p>My passion for the environment started during the pandemic. I began noticing how the natural world responded when human activity stopped, cleaner skies, quieter streets, and a sense of balance slowly returned. It hit me hard: we are the ones disrupting this planet, and it shouldn’t have taken a global pandemic for me to realize that. That moment shifted everything for me. I changed my career path from Sports Medicine to Environmental Studies and haven’t looked back since. My dad used to joke with cashiers by saying, “Save a tree,” when we checked out. I used to laugh it off, but when I asked him about it, he’d say that even the smallest actions matter when it comes to reducing our carbon footprint. That lesson didn’t fully land until I saw the world pause during COVID-19. When classes resumed to be in person after COVID-19 at my community college, I enrolled in an oceanography and physical geography course and was immediately hooked.</p>
 <p>What drew me in most was the interdisciplinary nature of the field. There’s a huge disconnect between what’s happening in the world and how people perceive it, and I wanted to bridge that gap. My time as an undergraduate at UCSB has been enriching. I have been able to contribute to PhD research through a qualitative and data acquisition lens. Still, learning more about what goes into research and the required technical skills, I have become more interested in the field’s data science and management side, which could be a possible avenue I would like to explore in the future.</p>
 <p>Since transferring to UCSB, I’ve gravitated toward water resource management. Many people still lack access to clean, fresh water, and although water is often labeled a renewable resource, our current usage and policies say otherwise. I’m motivated to help reshape how we regulate and protect it because equitable access to water isn’t optional; it’s essential.</p>
 </div>
-<hr>
 
 
+<div class="hidden" aria-hidden="true">
+<div class="glightbox-desc lightbox-desc-1">
+<p>UCSB Campus Lagoon</p>
+</div>
+<div class="glightbox-desc lightbox-desc-2">
+<p>Lizard’s Mouth, SB</p>
+</div>
+<div class="glightbox-desc lightbox-desc-3">
+<p>Sperling Preserve</p>
+</div>
+<div class="glightbox-desc lightbox-desc-4">
+<p>Coal Oil Pint - Golden Hour</p>
+</div>
+</div>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -733,6 +750,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"loop":false,"closeEffect":"zoom","selector":".lightbox","openEffect":"zoom","descPosition":"bottom"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
