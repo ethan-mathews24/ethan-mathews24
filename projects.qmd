@@ -1,5 +1,16 @@
 ---
-title: "projects"
-format: html
+title: "Projects"
+listing: 
+  contents: projects
+  sort: false
+  type: grid
+  image-align: right
+  max-description-length: 250
+  date-format: medium
+  categories: false
+page-layout: article
+freeze: auto
+editor: source
 ---
+
 

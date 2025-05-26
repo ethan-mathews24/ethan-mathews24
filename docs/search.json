@@ -18,7 +18,7 @@
     "href": "hobbies.html",
     "title": "hobbies",
     "section": "",
-    "text": "I’ve always been drawn to sports and movement. Growing up, I played baseball, soccer, and just about every action sport I could get into. Whether it was surfing, skateboarding, mountain biking, racing dirt bikes, or snowboarding, I was always chasing the next adrenaline rush, and honestly, not much has changed.\nOver the past few years, after high school, I’ve gotten into golf and focused on the craft. I still surf regularly, especially with Santa Barbara’s breathtaking coastline running parallel to the Santa Ynez mountains, and I make sure to snowboard every winter. UCSB’s intramural sports have also been a highlight. Getting to play basketball and soccer with friends has been a great throwback to the sports I grew up on. It has been a huge reality check on how you can fall out of touch with your skills and ability without using them for so many years.\nOutside of organized sports, I’ve made lifting weights a consistent part of my routine. It keeps me grounded and energized. I also love taking my dogs on little adventures, whether it’s a trail, the beach, or just somewhere new for them to explore. More recently, I’ve been getting into running and rock climbing; it’s a totally different kind of challenge, and I’ve been enjoying pushing myself in new ways.\nI am very fortunate to have been able to attend UCSB because living in Santa Barbara has been one of the most rewarding experiences. From being able to surf till sundown and going on morning runs, there is always so much to do. It has re-grounded me, and connecting with nature has been so freeing. I have been able to appreciate it more and more as I spend more time outside. The best part is that you can do it alone or with friends; the experience will be genuine no matter what. Living in the suburbs for over a decade and being so immersed in the social bubble, being outside has been a top priority while being in Santa Barbara.\nIf you ever need inspiration for fun scenic running routes, check out my Strava profile!! I don’t record many hikes, but there are tons of amazing trails in the foothills and near UCSB open space.\n\n\n\n\n\nMy sister and I snowboarding in Switzerland\n\n\nQualifying for State\n\n\nSunset Skimboard\n\n\nPotato Chip Rock"
+    "text": "I’ve always been drawn to sports and movement. Growing up, I played baseball, soccer, and just about every action sport I could get into. Whether it was surfing, skateboarding, mountain biking, racing dirt bikes, or snowboarding, I was always chasing the next adrenaline rush, and honestly, not much has changed.\nOver the past few years, after high school, I’ve gotten into golf and focused on the craft. I still surf regularly, especially with Santa Barbara’s breathtaking coastline running parallel to the Santa Ynez mountains, and I make sure to snowboard every winter. UCSB’s intramural sports have also been a highlight. Getting to play basketball and soccer with friends has been a great throwback to the sports I grew up on. It has been a huge reality check on how you can fall out of touch with your skills and ability without using them for so many years.\nOutside of organized sports, I’ve made lifting weights a consistent part of my routine. It keeps me grounded and energized. I also love taking my dogs on little adventures, whether it’s a trail, the beach, or just somewhere new for them to explore. More recently, I’ve been getting into running and rock climbing; it’s a totally different kind of challenge, and I’ve been enjoying pushing myself in new ways.\nI am very fortunate to have been able to attend UCSB because living in Santa Barbara has been one of the most rewarding experiences. From being able to surf till sundown and going on morning runs, there is always so much to do. It has re-grounded me, and connecting with nature has been so freeing. I have been able to appreciate it more and more as I spend more time outside. The best part is that you can do it alone or with friends; the experience will be genuine no matter what. Living in the suburbs for over a decade and being so immersed in the social bubble, being outside has been a top priority while being in Santa Barbara.\nIf you ever need inspiration for fun scenic running routes, check out my Strava profile!! I don’t record many hikes, but there are tons of amazing trails in the foothills and near UCSB open space.\n\n[Strava Map Goes Here]\n\n\n\n\nMy sister and I snowboarding in Switzerland\n\n\nQualifying for State\n\n\nSunset Skimboard\n\n\nPotato Chip Rock"
   },
   {
     "objectID": "index.html",
@@ -30,8 +30,43 @@
   {
     "objectID": "true-passion.html",
     "href": "true-passion.html",
-    "title": "why I love nature",
+    "title": "why i love nature",
     "section": "",
     "text": "My passion for the environment started during the pandemic. I began noticing how the natural world responded when human activity stopped, cleaner skies, quieter streets, and a sense of balance slowly returned. It hit me hard: we are the ones disrupting this planet, and it shouldn’t have taken a global pandemic for me to realize that. That moment shifted everything for me. I changed my career path from Sports Medicine to Environmental Studies and haven’t looked back since. My dad used to joke with cashiers by saying, “Save a tree,” when we checked out. I used to laugh it off, but when I asked him about it, he’d say that even the smallest actions matter when it comes to reducing our carbon footprint. That lesson didn’t fully land until I saw the world pause during COVID-19. When classes resumed to be in person after COVID-19 at my community college, I enrolled in an oceanography and physical geography course and was immediately hooked.\nWhat drew me in most was the interdisciplinary nature of the field. There’s a huge disconnect between what’s happening in the world and how people perceive it, and I wanted to bridge that gap. My time as an undergraduate at UCSB has been enriching. I have been able to contribute to PhD research through a qualitative and data acquisition lens. Still, learning more about what goes into research and the required technical skills, I have become more interested in the field’s data science and management side, which could be a possible avenue I would like to explore in the future.\nSince transferring to UCSB, I’ve gravitated toward water resource management. Many people still lack access to clean, fresh water, and although water is often labeled a renewable resource, our current usage and policies say otherwise. I’m motivated to help reshape how we regulate and protect it because equitable access to water isn’t optional; it’s essential.\n\n\n\n\n\nUCSB Campus Lagoon\n\n\nLizard’s Mouth, SB\n\n\nSperling Preserve\n\n\nCoal Oil Point - Golden Hour"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Camp Fire Evacuation Analysis\n\n\nUsed GIS to analyze fire station response coverage and propose optimal fire station siting for Paradise, CA.\n\n\n\n\n\n\nMar 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAgroecology and the Future of Nebraska Farming\n\n\nAn op-ed exploring how agroecological practices can offer a sustainable path forward for small farmers in Nebraska.\n\n\n\n\n\n\nMar 6, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/GISproject.html",
+    "href": "projects/GISproject.html",
+    "title": "Camp Fire Evacuation Analysis",
+    "section": "",
+    "text": "This project examined the Camp Fire in Paradise, CA by applying network analysis, spatial clustering, and land suitability modeling to identify evacuation shortcomings and propose infrastructure improvements grounded in findings from the literature review.\nView Final Report\nTLDR - Final Presentation"
+  },
+  {
+    "objectID": "projects/GISproject.html#overview",
+    "href": "projects/GISproject.html#overview",
+    "title": "Camp Fire Evacuation Analysis",
+    "section": "",
+    "text": "This project examined the Camp Fire in Paradise, CA by applying network analysis, spatial clustering, and land suitability modeling to identify evacuation shortcomings and propose infrastructure improvements grounded in findings from the literature review.\nView Final Report\nTLDR - Final Presentation"
+  },
+  {
+    "objectID": "projects/Op-Ed.html",
+    "href": "projects/Op-Ed.html",
+    "title": "Agroecology and the Future of Nebraska Farming",
+    "section": "",
+    "text": "This op-ed advocates for agroecology as a sustainable alternative to industrial farming in Nebraska. Drawing from personal experience and research, it explores the environmental and economic challenges faced by small farmers and emphasizes the need for policy reform, financial incentives, and education to support regenerative agricultural practices.\nRead Full Op-Ed"
+  },
+  {
+    "objectID": "projects/Op-Ed.html#overview",
+    "href": "projects/Op-Ed.html#overview",
+    "title": "Agroecology and the Future of Nebraska Farming",
+    "section": "",
+    "text": "This op-ed advocates for agroecology as a sustainable alternative to industrial farming in Nebraska. Drawing from personal experience and research, it explores the environmental and economic challenges faced by small farmers and emphasizes the need for policy reform, financial incentives, and education to support regenerative agricultural practices.\nRead Full Op-Ed"
   }
 ]

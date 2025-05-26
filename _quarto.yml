@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources:
-    - files/resume.pdf
+    - files/**
     - websitematerial/**
     - media/**
 
@@ -41,4 +41,3 @@ format:
 
 
 editor: visual
-
