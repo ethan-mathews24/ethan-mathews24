@@ -11,11 +11,11 @@ format:
 ::: {layout="[[1, 1, 1, 1]]"}
 ![](media/lagoon.jpg){group="passion" description="UCSB Campus Lagoon" width="200"}
 
-![](media/lizard.JPG){group="passion" description="Lizard's Mouth, SB" width="113"}
+![](media/lizard.jpg){group="passion" description="Lizard's Mouth, SB" width="113"}
 
-![](media/rocks.JPG){group="passion" description="Sperling Preserve" width="113"}
+![](media/rocks.jpg){group="passion" description="Sperling Preserve" width="113"}
 
-![](media/tidalzone.JPG){group="passion" description="Coal Oil Point - Golden Hour" width="200"}
+![](media/tidalzone.jpg){group="passion" description="Coal Oil Point - Golden Hour" width="200"}
 :::
 
 ::: text-center
