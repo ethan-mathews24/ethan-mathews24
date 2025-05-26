@@ -11,7 +11,7 @@ format: html
 #### Royce and Phantom (sister and brother)
 
 :::: {.lightbox-gallery cols="3"}
-![](websitematerial/perfectroyce.JPG){.lightbox group="pups" fig-cap="Royce (Miss Ma'am)" width="150"} ![](websitematerial/royceinthegrass.jpg){.lightbox group="pups" fig-cap="Royce soaking up the sun." width="200"} ![](websitematerial/royceandphantom.jpg){.lightbox group="pups" fig-cap="Royce and Phantom together begging for food." width="200"} ![](websitematerial/mrandball.JPG){.lightbox group="pups" fig-cap="Phantom ready to pounce." width="200"} ![](websitematerial/royce.jpg){.lightbox group="pups" fig-cap="Royce looking regal." width="200"} ![](websitematerial/mrsleeping.JPEG){.lightbox group="pups" fig-cap="Mr. sleeping peacefully." width="200"}
+![](websitematerial/royceinthegrass.jpg){.lightbox group="pups" fig-cap="Royce soaking up the sun." width="200"} ![](websitematerial/royceandphantom.jpg){.lightbox group="pups" fig-cap="Royce and Phantom together begging for food." width="200"} ![](websitematerial/mrandball.JPG){.lightbox group="pups" fig-cap="Phantom ready to pounce." width="200"} ![](websitematerial/royce.jpg){.lightbox group="pups" fig-cap="Royce looking regal." width="200"}
 
 #### Queen Phoebe
 
