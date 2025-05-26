@@ -1,0 +1,17 @@
+---
+title: "Spatial Analysis of the Nitrate Contamination from Industrial Agriculture in Fresno County"
+description: "Spatial analysis of nitrate contamination in domestic wells based on proximity to almond and grape cropland."
+image: media/fresnoag.jpg
+date: 2025-06-05
+---
+
+## Overview
+
+This project examined how nitrate contamination in Fresno County's domestic water wells correlated with the footprint of industrial agriculture, specifically almond and grape cultivation. Despite Fresno’s agricultural dominance and billion-dollar crop economy, we hypothesized that nitrate infiltration from fertilizers disproportionately affects rural residents—especially those in disadvantaged communities who rely on unregulated domestic wells for drinking water.
+
+The project used post-2014 monitor well data to model nitrate concentrations through Ordinary Least Squares (OLS) regression and evaluated spatial clustering via Moran’s I. Variables included crop coverage (almond and grape) and well depth within a 4.8 km buffer. While well depth significantly predicted nitrate levels, crop type did not show a statistically significant effect, suggesting that unmeasured land-use or hydrological factors may better explain contamination patterns.
+
+The study emphasized environmental justice concerns by mapping nitrate risk alongside disadvantaged community boundaries, revealing structural monitoring gaps. Over 90% of domestic wells in the region remain unmonitored, leaving thousands without adequate water quality protections. This research was intended to support future policy interventions targeting expanded groundwater monitoring and more equitable water infrastructure investments. However, based on the results there are more factors that must be considered.  
+
+[Project Coming Soon]
+

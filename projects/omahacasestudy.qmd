@@ -1,0 +1,29 @@
+---
+title: "Omaha Housing Development Suitability"
+description: "Land suitability analysis for mid-density housing in Omaha based on proximity to key infrastructure and demographic need."
+image: media/omaha.jpg
+date: 2025-06-05
+---
+
+## Overview
+
+## Overview
+
+This ongoing project investigates Omaha’s housing crisis through the lens of equity, accessibility, and sustainable development. The city faces a persistent shortage of affordable housing, especially for working-class residents, renters, and first-time homebuyers. Rising rents, limited housing stock, and the prioritization of luxury developments have created deep structural barriers to stable housing—barriers that disproportionately impact low-income families and marginalized communities.
+
+The analysis is organized into several dimensions:
+
+**Demographics & Income:** A significant portion of Omaha’s population is rent-burdened, with over 44% of households spending more than 30% of their income on housing. Homeownership remains inaccessible for many due to stagnant wages and inflated property values.
+
+**Ethnic & Racial Disparities:** Communities of color, particularly Black and Latino residents, are more likely to face housing insecurity and displacement due to discriminatory lending, historic segregation patterns, and limited access to credit or wealth-building opportunities.
+
+**Political & Regulatory Environment:** Zoning codes in Omaha have traditionally favored single-family, suburban-style development, limiting the feasibility of denser, more inclusive housing models like condominiums. Policy interventions have lagged behind market pressures, reinforcing a two-tier housing system.
+
+**Built Environment & Infrastructure:** Omaha’s urban design favors sprawl and automobile dependency, making affordable housing on the city’s outskirts functionally inaccessible for those without reliable transit. At the same time, the core city lacks mid-density developments that support walkability, transit access, and economic diversity.
+
+This project uses a GIS-based Land Suitability Analysis (LSA) to identify optimal locations for new condominium developments that align with sustainability and equity goals. Layers include proximity to transit, schools, parks, and population density, overlaid with zoning data to pinpoint viable parcels for infill development. The final objective is to propose a housing model that fosters ownership, reduces displacement, and advances community resilience.
+
+
+[Project Coming Soon]
+
+

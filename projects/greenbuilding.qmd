@@ -1,0 +1,15 @@
+---
+title: "Ellison Hall Green Building Assessment"
+description: "A developing case study analyzing sustainability performance and retrofit opportunities at UCSB’s Ellison Hall."
+image: media/ellisonhall.jpg
+date: In Progress!
+---
+
+## Overview
+
+This case study evaluates the energy and water performance of Ellison Hall, a high-occupancy academic building at UCSB originally built in 1969. Despite earning LEED Gold certification, Ellison Hall reveals ongoing inefficiencies—particularly in water use—that could be addressed with cost-effective retrofits. The assessment focuses on ENERGY STAR benchmarking, indoor water use analysis, and simple upgrades such as aerators, urinals, and lighting sensors. The final version will propose both low-cost and capital-intensive improvements to further align the building with UCSB’s climate action goals.
+
+[Project Coming Soon]
+
+
+
