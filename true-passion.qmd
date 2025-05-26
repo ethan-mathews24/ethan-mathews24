@@ -1,4 +1,5 @@
 ---
+title: "why I love nature"
 filters:
   - lightbox
 lightbox: auto
