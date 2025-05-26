@@ -25,6 +25,9 @@ website:
       - href: past-adventures.qmd
         text: past adventures
 
+filters:
+  - lightbox
+
 format:
   html:
     theme: 
