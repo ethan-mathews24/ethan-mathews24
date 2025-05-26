@@ -11,12 +11,12 @@ format: html
 #### Royce and Phantom (sister and brother)
 
 :::: {.lightbox-gallery cols="3"}
-![](websitematerial/perfectroyce.jpg){.lightbox group="pups" fig-cap="Royce (Miss Ma'am)" width="150"} ![](websitematerial/royceinthegrass.jpg){.lightbox group="pups" fig-cap="Royce soaking up the sun." width="200"} ![](websitematerial/royceandphantom.jpg){.lightbox group="pups" fig-cap="Royce and Phantom together begging for food." width="200"} ![](websitematerial/mrandball.jpg){.lightbox group="pups" fig-cap="Phantom ready to pounce." width="200"} ![](websitematerial/royce.jpg){.lightbox group="pups" fig-cap="Royce looking regal." width="200"} ![](websitematerial/mrsleeping.jpeg){.lightbox group="pups" fig-cap="Mr. sleeping peacefully." width="200"}
+![](websitematerial/perfectroyce.JPG){.lightbox group="pups" fig-cap="Royce (Miss Ma'am)" width="150"} ![](websitematerial/royceinthegrass.jpg){.lightbox group="pups" fig-cap="Royce soaking up the sun." width="200"} ![](websitematerial/royceandphantom.jpg){.lightbox group="pups" fig-cap="Royce and Phantom together begging for food." width="200"} ![](websitematerial/mrandball.JPG){.lightbox group="pups" fig-cap="Phantom ready to pounce." width="200"} ![](websitematerial/royce.jpg){.lightbox group="pups" fig-cap="Royce looking regal." width="200"} ![](websitematerial/mrsleeping.JPEG){.lightbox group="pups" fig-cap="Mr. sleeping peacefully." width="200"}
 
 #### Queen Phoebe
 
 ::: {.lightbox-gallery cols="3"}
-![](websitematerial/phoebeingarden.jpg){.lightbox group="pups" fig-cap="Phoebe in the garden." width="200"} ![](websitematerial/phoebeingrass.jpg){.lightbox group="pups" fig-cap="Phoebe posing in the grass." width="200"} ![](websitematerial/phoebeatthebeach.jpg){.lightbox group="pups" fig-cap="Phoebe watching me surf." width="200"}
+![](websitematerial/phoebeingarden.jpg){.lightbox group="pups" fig-cap="Phoebe in the garden." width="200"} ![](websitematerial/phoebeingrass.jpg){.lightbox group="pups" fig-cap="Phoebe posing in the grass." width="200"} ![](websitematerial/phoebeatthebeach.JPG){.lightbox group="pups" fig-cap="Phoebe watching me surf." width="200"}
 :::
 
 I absolutely cherish all dogs. I’m the kind of person who’s immediately drawn to the dog in public. Their carefree attitude and unconditional happiness are something I genuinely admire, and it’s refreshing to be around that kind of pure energy. Dogs love you no matter your race, gender, or values, and there’s nothing more beautiful than that kind of loyalty.
