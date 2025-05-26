@@ -4,6 +4,7 @@ project:
   resources:
     - files/resume.pdf
     - websitematerial/**
+    - media/**
 
 website:
   title: "Ethan Mathews"
@@ -33,9 +34,11 @@ format:
     theme: 
       light: flatly
       dark: darkly
+    mainfont: Raleway
     css: styles.css
     toc: true
-    page-layout: full
+    layout: full
+
 
 editor: visual
 
