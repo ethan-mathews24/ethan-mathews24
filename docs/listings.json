@@ -9,5 +9,12 @@
       "/projects/GISCproject.html",
       "/projects/Op-Ed.html"
     ]
+  },
+  {
+    "listing": "/past-adventures.html",
+    "items": [
+      "/adventures/portugal-spain.html",
+      "/adventures/lima-cusco.html"
+    ]
   }
 ]

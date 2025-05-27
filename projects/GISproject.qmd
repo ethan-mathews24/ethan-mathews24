@@ -2,7 +2,7 @@
 title: "Camp Fire Evacuation Analysis"
 description: "Used GIS to analyze fire station response coverage and propose optimal fire station siting for Paradise, CA."
 image: media/campfire.jpg
-date: 2024-03-14
+date: 2025-03-14
 ---
 
 ## Overview
@@ -12,5 +12,3 @@ This project examined the Camp Fire in Paradise, CA by applying network analysis
 [View Final Report](files/troubleinparadise.pdf)
 
 [TLDR - Final Presentation](files/presentation.pdf)
-
-

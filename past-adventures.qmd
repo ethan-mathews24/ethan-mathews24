@@ -1,4 +1,14 @@
 ---
-title: "past adventures"
-format: html
+title: "Past Adventures"
+listing: 
+  contents: adventures
+  sort: false
+  type: grid
+  image-align: right
+  max-description-length: 350
+  date-format: medium
+  categories: false
+page-layout: article
+freeze: auto
+editor: source
 ---

@@ -2,7 +2,7 @@
 title: "Campus Point Faculty Housing EIR – Biology Focus"
 description: "A focused Environmental Impact Report analyzing biological impacts and mitigation strategies for a proposed housing and classroom project at UCSB's Campus Point."
 image: media/ucsbcampus.jpg
-date: 2024-03-21
+date: 2025-03-21
 ---
 
 ## Overview

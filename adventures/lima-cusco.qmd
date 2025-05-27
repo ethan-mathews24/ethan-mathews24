@@ -1,0 +1,7 @@
+---
+title: "Lima -> Cusco"
+description: "An exhilarating adventure across Peru filled with action-packed days on minimal amounts of sleep."
+image: media/machu.jpg
+date: 2024-07-27
+---
+

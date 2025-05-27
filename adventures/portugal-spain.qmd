@@ -1,0 +1,7 @@
+---
+title: "Portugal -> Spain"
+description: "A journey through history and architectural brilliance, highlighting the lasting influence of Spanish design and cultural heritage."
+image: media/porto.jpg
+date: 2023-06-01
+---
+
