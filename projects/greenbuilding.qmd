@@ -2,7 +2,6 @@
 title: "Ellison Hall Green Building Assessment"
 description: "A case study analyzing sustainability performance and retrofit opportunities at UCSB’s Ellison Hall."
 image: media/ellisonhall.jpg
-date: 2025-06-11
 toc: false
 ---
 

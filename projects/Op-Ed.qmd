@@ -2,7 +2,6 @@
 title: "Agroecology and the Future of Nebraska Farming"
 description: "An op-ed exploring how agroecological practices can offer a sustainable path forward for small farmers in Nebraska."
 image: media/agroecology.JPEG
-date: 2025-03-06
 toc: false
 ---
 

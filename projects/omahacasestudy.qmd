@@ -2,7 +2,6 @@
 title: "Omaha Housing Development Suitability Analysis"
 description: "Land suitability analysis for mid-density housing in Omaha based on proximity to key infrastructure and demographic need."
 image: media/omaha.jpg
-date: 2025-06-05
 toc: false
 ---
 

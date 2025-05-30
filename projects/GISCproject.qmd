@@ -2,7 +2,6 @@
 title: "Spatial Analysis of the Nitrate Contamination from Industrial Agriculture in Fresno County"
 description: "Spatial analysis of nitrate contamination in domestic wells based on proximity to almond and grape cropland."
 image: media/fresnoag.jpg
-date: 2025-06-05
 toc: false
 ---
 
@@ -16,4 +15,4 @@ The study emphasized environmental justice concerns by mapping nitrate risk alon
 
 \[Storymap Coming Soon\]
 
-![](files/geogposter.pdf){width=95% height=625}
+![](files/geogposter.pdf){width="95%" height="625"}

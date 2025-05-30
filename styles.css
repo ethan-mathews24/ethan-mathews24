@@ -12,6 +12,32 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
 }
 
+/* Adjust header sizes */
+h1 {
+  font-size: 1.5rem !important;
+}
+h2 {
+  font-size: 1.35rem !important;
+}
+h3 {
+  font-size: 1.25rem !important;
+}
+h4 {
+  font-size: 0.9rem !important;
+}
+h5 {
+  font-size: 0.75rem !important;
+}
+h6 {
+  font-size: 0.5rem !important;
+}
+
+.quarto-grid-item .listing-title {
+  font-size: 1.15rem !important;  /* bigger and more visible */
+  font-weight: bold;             /* if you want it bolder */
+}
+
+
 /* Light mode (default) */
 body,
 .content,

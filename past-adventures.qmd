@@ -1,5 +1,4 @@
 ---
-title: "Past Adventures"
 filters:
   - lightbox
 lightbox: auto
@@ -17,6 +16,8 @@ editor: source
 toc: true
 ---
 
+
+# Past Travel Destinations
 <div style="text-align: center; margin-bottom: 2rem;">
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
@@ -30,58 +31,73 @@ travel_points <- data.frame(
     "Lima, Peru", "Ica, Peru", "Paracas, Peru", "Cuzco, Peru", "Sacred Valley, Peru", "Machu Picchu, Peru", "Aguas Calientes, Peru",
     "Honolulu, Hawaii", "Waikiki, Hawaii", "North Shore, Hawaii",
     "Sitka, Alaska", "Port Alexander, Alaska",
-    "Whistler, Canada", "Vancouver, Canada"
+    "Whistler, Canada", "Vancouver, Canada",
+    "Scottsdale, Arizona", "Salt Lake City, Utah", "Omaha, Nebraska", "Bend, Oregon", "Seattle, Washington", "Miami, Florida",
+    "Barcelona, Spain", "Seville, Spain", "Granada, Spain", "Porto, Portugal", "Lisbon, Portugal", "Sintra, Portugal",  "Encinitas, California"
   ),
   lat = c(
     41.9028, 44.1194, 43.7228, 45.4408, 45.4561,
     -12.0464, -14.0678, -13.8354, -13.5320, -13.2861, -13.1631, -13.1586,
     21.3069, 21.2767, 21.5940,
     57.0516, 56.2522,
-    50.1163, 49.2827
+    50.1163, 49.2827,
+    33.4942, 40.7608, 41.2565, 44.0582, 47.6062, 25.7617,
+    41.3851, 37.3891, 37.1773, 41.1579, 38.7223, 38.8029, 33.0369
   ),
   lon = c(
     12.4964, 9.7159, 10.4017, 12.3155, 12.3533,
     -77.0428, -75.7257, -76.2550, -71.9675, -72.0716, -72.5450, -72.5122,
     -157.8583, -157.8275, -158.1100,
     -135.3300, -134.6450,
-    -122.9574, -123.1207
+    -122.9574, -123.1207,
+    -111.9261, -111.8910, -95.9345, -121.3153, -122.3321, -80.1918,
+    2.1734, -5.9845, -3.5986, -8.6291, -9.1393, -9.3884, -117.2919
   ),
   region = c(
     rep("Europe", 5),
     rep("South America", 7),
     rep("Hawaii", 3),
     rep("Alaska", 2),
-    rep("Canada", 2)
+    rep("Canada", 2),
+    rep("USA", 6),
+    rep("Europe", 6),
+     "Home" # adding new Spain & Portugal cities to Europe
   )
 )
 
-region_colors <- c(
-  "Europe" = "blue",
-  "South America" = "green",
-  "Hawaii" = "orange",
-  "Alaska" = "purple",
-  "Canada" = "red"
+# Create a custom home icon
+home_icon <- makeAwesomeIcon(
+  icon = 'home', markerColor = 'blue', iconColor = 'white', library = 'fa'
 )
 
-# Create the map with satellite imagery (no separate label overlay)
+# Create the map with Encinitas as a home icon and others as circle markers
 leaflet(travel_points) %>%
-  addProviderTiles(providers$Esri.WorldImagery) %>%
+  addProviderTiles(providers$OpenStreetMap) %>%
+  # Add circle markers for all except Encinitas
   addCircleMarkers(
+    data = subset(travel_points, place != "Encinitas, California"),
     ~lon, ~lat,
     fillColor = "red",
     color = "white",
     radius = 6,
     weight = 1,
-    stroke = FALSE,
     fillOpacity = 0.9,
     popup = ~paste0("<strong>", place, "</strong>"),
     clusterOptions = markerClusterOptions()
+  ) %>%
+  # Add the home icon for Encinitas
+  addAwesomeMarkers(
+    data = subset(travel_points, place == "Encinitas, California"),
+    ~lon, ~lat,
+    icon = home_icon,
+    popup = ~paste0("<strong>Home: ", place, "</strong>")
   )
+
 
 ```
 </div>
 
-
+# Travel Blogs
 
 
 
