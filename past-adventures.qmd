@@ -1,5 +1,9 @@
 ---
 title: "Past Adventures"
+filters:
+  - lightbox
+lightbox: auto
+freeze: auto
 listing: 
   contents: adventures
   sort: false
@@ -9,7 +13,6 @@ listing:
   date-format: medium
   categories: false
 page-layout: article
-freeze: auto
 editor: source
 toc: true
 ---

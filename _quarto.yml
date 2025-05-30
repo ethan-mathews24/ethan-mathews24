@@ -5,6 +5,7 @@ project:
     - files/**
     - websitematerial/**
     - media/**
+    - adventures/**
 
 website:
   title: "Ethan Mathews"
