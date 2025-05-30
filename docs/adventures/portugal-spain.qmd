@@ -58,7 +58,7 @@ The family and Morgan woke up at 3:45 a.m. to get ready to leave Lisbon. Surpris
 ::: {.lightbox layout="[[1], [1, 1, 1]]"}
 ![](media/granda.JPG){group="granada" description="Pano of the city"}
 
-![](media/palaciosnazaries.JPG){group="granada" description="Garden in Nasrid Palace}
+![](media/palaciosnazaries.JPG){group="granada" description="Garden in Nasrid Palace"}
 
 ![](media/palaciosnazaries1.JPG){group="granada" description="Garden in Nasrid Palace"}
 
@@ -82,14 +82,14 @@ We woke up around 5:45 a.m. to head to the airport. It was a stressful morning. 
 
 ### Day 8 - Antoni Gaudí tour in Barcelona
 
-::: {.lightbox layout="[1, 1, 1, 1]"}
+::: {.lightbox layout="[[1, 1], [1, 1]]"}
 ![](media/lasegradadelafamilia.JPG){group="barcelona" description="La Sagrada de la Familia by Antoni Gaudí"}
+
+![](media/opera.JPG){group="barcelona" description="The Gran Teatre del Liceu Opera House"}
 
 ![](media/guadibuilding.JPG){group="barcelona" description="Casa Batlló by Antoni Gaudí"}
 
 ![](media/park.JPG){group="barcelona" description="Park Güell by Antoni Gaudí"}
-
-![](media/opera.JPG){group="barcelona" description="The Gran Teatre del Liceu Opera House"}
 :::
 
 

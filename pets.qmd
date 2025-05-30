@@ -21,7 +21,6 @@ format:
 ![](websitematerial/royce.jpg){group="pups" description="Royce looking regal." width="200"}
 :::
 
-
 #### Queen Phoebe
 
 ::: {layout="[[1, 1, 1]]"}
