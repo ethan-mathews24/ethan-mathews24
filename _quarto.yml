@@ -8,8 +8,11 @@ project:
 
 website:
   title: "Ethan Mathews"
+  favicon: media/portfolio.png
   site-url: https://ethan-mathews24.github.io/ethan-mathews24/
   navbar:
+    title: "Ethan Mathews"
+    logo: media/portfolio.png
     right:
       - href: index.qmd
         text: home
@@ -25,6 +28,9 @@ website:
         text: projects
       - href: past-adventures.qmd
         text: past adventures
+  page-footer:
+    background: light # or `dark`
+    left: Copyright 2025, Ethan Mathews
 
 filters:
   - lightbox
@@ -34,7 +40,9 @@ format:
     theme: 
       light: flatly
       dark: darkly
-    mainfont: Raleway
+    mainfont: "Poppins"
+    monofont: "Fira Code"
+    headingfont: "Raleway"
     css: styles.css
     toc: true
     layout: full

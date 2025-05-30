@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./media/portfolio.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -83,6 +84,9 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./media/portfolio.png" alt="" class="navbar-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Ethan Mathews</span>
     </a>
@@ -162,19 +166,21 @@ ul.task-list li input[type="checkbox"] {
 <div>
 
 </div>
-<div class="quarto-layout-panel" data-layout="[[1, 1, 1, 1]]">
+<div class="lightbox quarto-layout-panel" data-layout="[[1, 1], [1, 1]]">
 <div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
-<p><a href="media/snowboard.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-1;" data-gallery="sports"><img src="media/snowboard.jpg" class="img-fluid" width="112"></a></p>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="media/moto.jpg" class="lightbox" data-gallery="sports" data-glightbox="description: .lightbox-desc-1;"><img src="media/moto.jpg" class="img-fluid"></a></p>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
-<p><a href="media/moto.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-2;" data-gallery="sports"><img src="media/moto.jpg" class="img-fluid" width="200"></a></p>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="media/skimboard.jpg" class="lightbox" data-gallery="sports" data-glightbox="description: .lightbox-desc-2;"><img src="media/skimboard.jpg" class="img-fluid"></a></p>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
-<p><a href="media/skimboard.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-3;" data-gallery="sports"><img src="media/skimboard.jpg" class="img-fluid" width="200"></a></p>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
-<p><a href="media/chip.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-4;" data-gallery="sports"><img src="media/chip.jpg" class="img-fluid" width="112"></a></p>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="media/snowboard.jpg" class="lightbox" data-gallery="sports" data-glightbox="description: .lightbox-desc-3;"><img src="media/snowboard.jpg" class="img-fluid"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="media/chip.jpg" class="lightbox" data-gallery="sports" data-glightbox="description: .lightbox-desc-4;"><img src="media/chip.jpg" class="img-fluid"></a></p>
 </div>
 </div>
 </div>
@@ -190,13 +196,13 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="hidden" aria-hidden="true">
 <div class="glightbox-desc lightbox-desc-1">
-<p>My sister and I snowboarding in Switzerland</p>
-</div>
-<div class="glightbox-desc lightbox-desc-2">
 <p>Qualifying for State</p>
 </div>
-<div class="glightbox-desc lightbox-desc-3">
+<div class="glightbox-desc lightbox-desc-2">
 <p>Sunset Skimboard</p>
+</div>
+<div class="glightbox-desc lightbox-desc-3">
+<p>My sister and I snowboarding in Switzerland</p>
 </div>
 <div class="glightbox-desc lightbox-desc-4">
 <p>Potato Chip Rock</p>
@@ -769,7 +775,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","openEffect":"zoom","selector":".lightbox","descPosition":"bottom","loop":false});
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Copyright 2025, Ethan Mathews</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","openEffect":"zoom","selector":".lightbox","loop":false,"closeEffect":"zoom"});
 (function() {
   let previousOnload = window.onload;
   window.onload = () => {

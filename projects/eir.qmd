@@ -3,11 +3,13 @@ title: "Campus Point Faculty Housing EIR – Biology Focus"
 description: "A focused Environmental Impact Report analyzing biological impacts and mitigation strategies for a proposed housing and classroom project at UCSB's Campus Point."
 image: media/ucsbcampus.jpg
 date: 2025-03-21
+toc: false
 ---
 
 ## Overview
 
 This Final EIR evaluates the biological impacts of a proposed mixed-use development at UCSB’s Campus Point, including faculty housing and classrooms. The report identifies sensitive habitats and species within an Environmentally Sensitive Habitat Area (ESHA), assesses construction and operational impacts, and proposes mitigation strategies consistent with CEQA guidelines. With a strong focus on vegetation loss, avian nesting disruption, and wildlife corridor fragmentation, the EIR presents feasible mitigation measures and supports the Off-Site Alternative as the environmentally superior option.
 
-[Read Full EIR](files/finaleir.pdf)
+Read full EIR [HERE](files/finaleir.pdf)
 
+![](files/finaleir.pdf){width=95% height=700}

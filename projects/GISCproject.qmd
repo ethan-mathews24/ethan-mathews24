@@ -3,6 +3,7 @@ title: "Spatial Analysis of the Nitrate Contamination from Industrial Agricultur
 description: "Spatial analysis of nitrate contamination in domestic wells based on proximity to almond and grape cropland."
 image: media/fresnoag.jpg
 date: 2025-06-05
+toc: false
 ---
 
 ## Overview
@@ -13,4 +14,6 @@ The project used post-2014 monitor well data to model nitrate concentrations thr
 
 The study emphasized environmental justice concerns by mapping nitrate risk alongside disadvantaged community boundaries, revealing structural monitoring gaps. Over 90% of domestic wells in the region remain unmonitored, leaving thousands without adequate water quality protections. This research was intended to support future policy interventions targeting expanded groundwater monitoring and more equitable water infrastructure investments. However, based on the results there are more factors that must be considered.
 
-\[Project Coming Soon\]
+\[Storymap Coming Soon\]
+
+![](files/geogposter.pdf){width=95% height=625}

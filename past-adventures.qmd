@@ -11,4 +11,5 @@ listing:
 page-layout: article
 freeze: auto
 editor: source
+toc: true
 ---

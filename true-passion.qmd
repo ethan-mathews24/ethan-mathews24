@@ -9,15 +9,17 @@ format:
     toc: false
 ---
 
-::: {layout="[[1, 1, 1, 1]]"}
-![](media/lagoon.jpg){group="passion" description="UCSB Campus Lagoon" width="200"}
+::: {.lightbox layout="[[1, 1], [1, 1]]"}
+![](media/lagoon.jpg){group="passion" description="UCSB Campus Lagoon"}
 
-![](media/lizard.jpg){group="passion" description="Lizard's Mouth, SB" width="113"}
+![](media/tidalzone.jpg){group="passion" description="Coal Oil Point - Golden Hour"}
 
-![](media/rocks.jpg){group="passion" description="Sperling Preserve" width="113"}
+![](media/lizard.jpg){group="passion" description="Lizard's Mouth, SB"}
 
-![](media/tidalzone.jpg){group="passion" description="Coal Oil Point - Golden Hour" width="200"}
+![](media/rocks.jpg){group="passion" description="Sperling Preserve"}
 :::
+
+
 
 ::: text-center
 My passion for the environment started during the pandemic. I began noticing how the natural world responded when human activity stopped, cleaner skies, quieter streets, and a sense of balance slowly returned. It hit me hard: we are the ones disrupting this planet, and it shouldn’t have taken a global pandemic for me to realize that. That moment shifted everything for me. I changed my career path from Sports Medicine to Environmental Studies and haven’t looked back since. My dad used to joke with cashiers by saying, “Save a tree,” when we checked out. I used to laugh it off, but when I asked him about it, he’d say that even the smallest actions matter when it comes to reducing our carbon footprint. That lesson didn’t fully land until I saw the world pause during COVID-19. When classes resumed to be in person after COVID-19 at my community college, I enrolled in an oceanography and physical geography course and was immediately hooked.
