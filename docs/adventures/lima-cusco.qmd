@@ -34,7 +34,7 @@ The day began at 4 a.m. for the 3 and 1/2-hour bus ride to Pisco. It wasn’t to
 ### Day 3 - Travel to Cusco
 
 ::: {.lightbox layout="[1, 1, 1, 1]"}
-![](media/cocatea.JPG){group="sacredvalley" description="Traditional Coca tea"}
+![](media/cocatea.jpg){group="sacredvalley" description="Traditional Coca tea"}
 
 ![](media/starlodge.JPG){group="sacredvalley" description="Our cabins for the night"}
 
@@ -56,7 +56,7 @@ Today, we woke up around 7:40 a.m. after the best sleep of my life. We chilled i
 
 ![](media/aguaplaza.JPG){group="machu" description="Plaza Square in Aguas Calientes"}
 
-![](media/machu.JPG){group="machu" description="Machu Picchu Peak"}
+![](media/mainmachupichu.JPG){group="machu" description="Machu Picchu Peak"}
 
 ![](media/sidehill.JPG){group="machu" description="Terraces on the side of Machu Picchu"}
 :::
