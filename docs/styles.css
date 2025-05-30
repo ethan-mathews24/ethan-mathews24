@@ -55,6 +55,33 @@ a:hover {
   width: auto;
 }
 
+/* Center the map and control its size */
+.centered-map-container iframe,
+.centered-map-container .leaflet-container {
+  max-width: 90%; /* Reduce map width slightly */
+  height: 400px; /* Slightly smaller map height */
+  margin: 0 auto;
+}
+
+/* Increase spacing below the map */
+.centered-map-container {
+  margin-bottom: 3rem; /* More vertical space below map */
+}
+
+/* Center the listing container and control width */
+.quarto-listing-container-default {
+  margin: 0 auto;
+  max-width: 900px; /* Slightly larger than 800px if you want wider cards */
+  text-align: center; /* Center the container */
+}
+
+/* Center the listing cards themselves */
+.quarto-grid-item {
+  display: inline-block;
+  margin: 1rem;
+}
+
+
 
 
 

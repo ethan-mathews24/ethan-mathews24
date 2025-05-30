@@ -16,3 +16,73 @@ page-layout: article
 editor: source
 toc: true
 ---
+
+<div style="text-align: center; margin-bottom: 2rem;">
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+library(leaflet)
+library(dplyr)
+
+# Travel data with region info
+travel_points <- data.frame(
+  place = c(
+    "Rome, Italy", "Cinque Terre, Italy", "Pisa, Italy", "Venice, Italy", "Murano, Italy",
+    "Lima, Peru", "Ica, Peru", "Paracas, Peru", "Cuzco, Peru", "Sacred Valley, Peru", "Machu Picchu, Peru", "Aguas Calientes, Peru",
+    "Honolulu, Hawaii", "Waikiki, Hawaii", "North Shore, Hawaii",
+    "Sitka, Alaska", "Port Alexander, Alaska",
+    "Whistler, Canada", "Vancouver, Canada"
+  ),
+  lat = c(
+    41.9028, 44.1194, 43.7228, 45.4408, 45.4561,
+    -12.0464, -14.0678, -13.8354, -13.5320, -13.2861, -13.1631, -13.1586,
+    21.3069, 21.2767, 21.5940,
+    57.0516, 56.2522,
+    50.1163, 49.2827
+  ),
+  lon = c(
+    12.4964, 9.7159, 10.4017, 12.3155, 12.3533,
+    -77.0428, -75.7257, -76.2550, -71.9675, -72.0716, -72.5450, -72.5122,
+    -157.8583, -157.8275, -158.1100,
+    -135.3300, -134.6450,
+    -122.9574, -123.1207
+  ),
+  region = c(
+    rep("Europe", 5),
+    rep("South America", 7),
+    rep("Hawaii", 3),
+    rep("Alaska", 2),
+    rep("Canada", 2)
+  )
+)
+
+region_colors <- c(
+  "Europe" = "blue",
+  "South America" = "green",
+  "Hawaii" = "orange",
+  "Alaska" = "purple",
+  "Canada" = "red"
+)
+
+# Create the map with satellite imagery (no separate label overlay)
+leaflet(travel_points) %>%
+  addProviderTiles(providers$Esri.WorldImagery) %>%
+  addCircleMarkers(
+    ~lon, ~lat,
+    fillColor = "red",
+    color = "white",
+    radius = 6,
+    weight = 1,
+    stroke = FALSE,
+    fillOpacity = 0.9,
+    popup = ~paste0("<strong>", place, "</strong>"),
+    clusterOptions = markerClusterOptions()
+  )
+
+```
+</div>
+
+
+
+
+
+
