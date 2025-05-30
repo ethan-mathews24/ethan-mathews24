@@ -9,7 +9,7 @@ filters:
 
 ### Day 1 - Lisbon
 
-::: {.lightbox layout="[1, 1]"}
+::: {layout="[1, 1]"}
 ![](media/architectureinlisbon.JPG){group="lisbon" description="Lisboa - Belém"}
 
 ![](media/pasteldenata.JPG){group="lisbon" description="Pastel de nata"}
@@ -19,11 +19,11 @@ We flew into Lisbon, Portugal, around 10:00 a.m. Our original Airbnb turned out 
 
 ### Day 2 - Porto
 
-::: {.lightbox layout="[1]"}
+::: {layout="[1]"}
 ![](media/portopano.JPG){group="porto" description="Panoramic view of the Douro River in Porto"}
 :::
 
-::: {.lightbox layout="[1, 1]"}
+::: {layout="[1, 1]"}
 ![](media/foodinporto.JPG){group="porto" description="A Francesinha"}
 
 ![](media/joyfulpictureinlisbon.JPG){group="porto" description="A joyful moment before taking the train"}
@@ -33,7 +33,7 @@ We woke up at 5:30 a.m. to catch the 7:00 a.m. train to Porto. The walk to the s
 
 ### Day 3 - Sintra
 
-::: {.lightbox layout="[[1, 1], [1, 1]]"}
+::: {layout="[[1, 1], [1, 1]]"}
 ![](media/penapalace.JPG){group="sintra" description="Pena Palace, Sintra"}
 
 ![](media/castle.JPG){group="sintra" description="Quinta da Regaleira Manor"}
@@ -51,7 +51,7 @@ The family and Morgan woke up at 3:45 a.m. to get ready to leave Lisbon. Surpris
 
 ### Day 5 - Granada
 
-::: {.lightbox layout="[[1], [1, 1, 1]]"}
+::: {layout="[[1], [1, 1, 1]]"}
 ![](media/granda.JPG){group="granada" description="Pano of the city"}
 
 ![](media/palaciosnazaries.JPG){group="granada" description="Garden in Nasrid Palace"}
@@ -65,7 +65,7 @@ We woke up at 6:00 a.m. but ended up sleeping in until 7:00 a.m. Sleep has been 
 
 ### Day 6 - Seville
 
-::: {.lightbox layout="[1]"}
+::: {layout="[1]"}
 ![](media/panoofseville.JPG){group="Seville" description="Plaza de Espania"}
 :::
 
@@ -77,7 +77,7 @@ We woke up around 5:45 a.m. to head to the airport. It was a stressful morning. 
 
 ### Day 8 - Antoni Gaudí tour in Barcelona
 
-::: {.lightbox layout="[[1, 1], [1, 1]]"}
+::: {layout="[[1, 1], [1, 1]]"}
 ![](media/lasegradadelafamilia.JPG){group="barcelona" description="La Sagrada de la Familia by Antoni Gaudí"}
 
 ![](media/opera.JPG){group="barcelona" description="The Gran Teatre del Liceu Opera House"}

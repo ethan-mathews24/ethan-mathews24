@@ -7,7 +7,7 @@ toc: true
 
 ### Day 1 - The Beginning
 
-::: {.lightbox layout="[1, 1, 1]"}
+::: {layout="[1, 1, 1]"}
 ![](media/bankinlima.JPG){group="lima" description="Historic bank in Lima"}
 
 ![](media/favelas.JPG){group="lima" description="pueblos jóvenes - Villa El Salvador"}
@@ -19,7 +19,7 @@ Today began our Peru trip, and holy moly, was it an adventure. The flight there 
 
 ### Day 2 - Day Trip down South to Pisco and Ica
 
-::: {.lightbox layout="[[1], [1, 1, 1]]"}
+::: {layout="[[1], [1, 1, 1]]"}
 ![](media/dunepano.JPG){group="ica" description="Sunset in Ica"}
 
 ![](media/oasis.JPG){group="ica" description="Oasis in Ica"}
@@ -33,7 +33,7 @@ The day began at 4 a.m. for the 3 and 1/2-hour bus ride to Pisco. It wasn’t to
 
 ### Day 3 - Travel to Cusco
 
-::: {.lightbox layout="[1, 1, 1, 1]"}
+::: {layout="[1, 1, 1, 1]"}
 ![](media/cocatea.jpg){group="sacredvalley" description="Traditional Coca tea"}
 
 ![](media/starlodge.JPG){group="sacredvalley" description="Our cabins for the night"}
@@ -51,7 +51,7 @@ Today, we woke up around 7:40 a.m. after the best sleep of my life. We chilled i
 
 ### Day 5 - Machupicchu to Cusco
 
-::: {.lightbox layout="[[1], [1, 1, 1]]"}
+::: {layout="[[1], [1, 1, 1]]"}
 ![](media/panoma.JPG){group="machu" description="Pano of Machu Picchu"}
 
 ![](media/aguaplaza.JPG){group="machu" description="Plaza Square in Aguas Calientes"}
@@ -69,7 +69,7 @@ Today was a much more mellow day compared to the rest of the trip. We woke up la
 
 ### Day 7 - White water rafting down the Urubamba River
 
-::: {.lightbox layout="[1, 1]"}
+::: {layout="[1, 1]"}
 ![](media/cuzcoriver.JPG){group="rafting" description="The river we rafted down"}
 
 ![](media/chickeninperu.JPG){group="rafting" description="The feast following the rafting"}
@@ -79,7 +79,7 @@ Morgan and I woke up at 7:30 a.m. to relax before we were picked up for rafting 
 
 ### Day 8 - ATV Adventure
 
-::: {.lightbox layout="[[1, 1], [1, 1]]"}
+::: {layout="[[1, 1], [1, 1]]"}
 ![](media/saltfieldsinperu.JPG){group="ATV" description="Salineras de Maras"}
 
 ![](media/pisco.JPG){group="ATV" description="Pisco cocktail flight"}
