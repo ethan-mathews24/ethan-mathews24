@@ -12,4 +12,4 @@ This Final EIR evaluates the biological impacts of a proposed mixed-use developm
 
 Read full EIR [HERE](files/finaleir.pdf)
 
-![](files/finaleir.pdf){width=95% height=700}
+![](files/finaleir.pdf){width="95%" height="700"}

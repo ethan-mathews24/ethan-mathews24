@@ -10,6 +10,6 @@ toc: false
 
 This op-ed advocates for agroecology as a sustainable alternative to industrial farming in Nebraska. Drawing from personal experience and research, it explores the environmental and economic challenges faced by small farmers and emphasizes the need for policy reform, financial incentives, and education to support regenerative agricultural practices.
 
-Read full Op-Ed[HERE](files/oped.pdf)
+Read full Op-Ed [HERE](files/oped.pdf)
 
-![](files/oped.pdf){width=95% height=700}
+![](files/oped.pdf){width="95%" height="700"}
