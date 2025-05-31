@@ -17,7 +17,7 @@ about:
       href: mailto:ethankmathews@yahoo.com
     - icon: file-text
       text: Resume
-      href: https://ethan-mathews24.github.io/ethan-mathews24/files/resume.pdf
+      href: https://ethan-mathews24.github.io/ethan-mathews24/files/resume2025.pdf
 ---
 
 Hey there, welcome to my website! My name is Ethan Mathews, and I created this space to showcase my academic work and share a bit of my personal journey. If you have any questions or would like to connect or collaborate, feel free to reach out through the social links I’ve provided.
