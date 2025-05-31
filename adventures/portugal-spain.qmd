@@ -1,7 +1,7 @@
 ---
 title: "Portugal -> Spain"
 description: "A journey through history and architectural brilliance, highlighting the lasting influence of Spanish design and cultural heritage. 07/27/2024 - 08/05/2024"
-image: media/porto.jpg
+image: media/portoo.JPG
 toc: true
 filters:
   - lightbox
