@@ -1,20 +1,24 @@
 [
   {
-    "listing": "/past-adventures.html",
-    "items": [
-      "/adventures/portugal-spain.html",
-      "/adventures/lima-cusco.html"
-    ]
-  },
-  {
     "listing": "/projects.html",
     "items": [
       "/projects/GISproject.html",
       "/projects/eir.html",
       "/projects/greenbuilding.html",
+      "/projects/docs/adventures/portugal-spain.html",
+      "/projects/docs/adventures/lima-cusco.html",
       "/projects/omahacasestudy.html",
       "/projects/GISCproject.html",
       "/projects/Op-Ed.html"
+    ]
+  },
+  {
+    "listing": "/past-adventures.html",
+    "items": [
+      "/adventures/portugal-spain.html",
+      "/adventures/lima-cusco.html",
+      "/projects/docs/adventures/portugal-spain.html",
+      "/projects/docs/adventures/lima-cusco.html"
     ]
   }
 ]

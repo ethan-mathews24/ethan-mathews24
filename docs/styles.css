@@ -1,14 +1,8 @@
 /* css styles */
 
-/* General body text color */
-body {
-  color: #0a3d62;
-  font-size: 1.1rem;
-}
 
 /* Heading styles */
 h1, h2, h3, h4, h5, h6 {
-  color: #0a3d62;          
   font-weight: 600;
 }
 
@@ -37,27 +31,6 @@ h6 {
   font-weight: bold;             /* if you want it bolder */
 }
 
-
-/* Light mode (default) */
-body,
-.content,
-.page-content,
-.content p,
-.content li,
-.content span {
-  color: #0a3d62 !important;
-  font-weight: normal;
-}
-
-/* Quarto's dark mode */
-html.dark body,
-html.dark .content,
-html.dark .page-content,
-html.dark .content p,
-html.dark .content li,
-html.dark .content span {
-  color: #e0e0e0 !important;
-}
 
 
 /* Navbar background */
