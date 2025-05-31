@@ -169,18 +169,18 @@ ul.task-list li input[type="checkbox"] {
 <div class="lightbox quarto-layout-panel" data-layout="[[1, 1], [1, 1]]">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><a href="media/lagoon.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-1;" data-gallery="passion"><img src="media/lagoon.jpg" class="img-fluid"></a></p>
+<p><a href="media/lagoon.jpg" class="lightbox" data-gallery="passion" data-glightbox="description: .lightbox-desc-1;"><img src="media/lagoon.jpg" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><a href="media/tidalzone.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-2;" data-gallery="passion"><img src="media/tidalzone.jpg" class="img-fluid"></a></p>
+<p><a href="media/tidalzone.jpg" class="lightbox" data-gallery="passion" data-glightbox="description: .lightbox-desc-2;"><img src="media/tidalzone.jpg" class="img-fluid"></a></p>
 </div>
 </div>
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><a href="media/lizard.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-3;" data-gallery="passion"><img src="media/lizard.jpg" class="img-fluid"></a></p>
+<p><a href="media/lizard.jpg" class="lightbox" data-gallery="passion" data-glightbox="description: .lightbox-desc-3;"><img src="media/lizard.jpg" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><a href="media/rocks.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-4;" data-gallery="passion"><img src="media/rocks.jpg" class="img-fluid"></a></p>
+<p><a href="media/rocks.jpg" class="lightbox" data-gallery="passion" data-glightbox="description: .lightbox-desc-4;"><img src="media/rocks.jpg" class="img-fluid"></a></p>
 </div>
 </div>
 </div>
@@ -785,7 +785,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","openEffect":"zoom","descPosition":"bottom","loop":false,"selector":".lightbox"});
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","descPosition":"bottom","closeEffect":"zoom","openEffect":"zoom","loop":false});
 (function() {
   let previousOnload = window.onload;
   window.onload = () => {
