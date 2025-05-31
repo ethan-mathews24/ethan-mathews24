@@ -2,7 +2,7 @@
 title: "Omaha Housing Development Suitability Analysis"
 description: "Land suitability analysis for mid-density housing in Omaha based on proximity to key infrastructure and demographic need."
 image: media/omaha.jpg
-toc: false
+toc: true
 ---
 
 ## Overview
@@ -23,4 +23,9 @@ The analysis is organized into several dimensions:
 
 This project uses a GIS-based Land Suitability Analysis (LSA) to identify optimal locations for new condominium developments that align with sustainability and equity goals. Layers include proximity to transit, schools, parks, and population density, overlaid with zoning data to pinpoint viable parcels for infill development. The final objective is to propose a housing model that fosters ownership, reduces displacement, and advances community resilience.
 
+## Final Case Study
+
 \[Project Coming Soon\]
+
+
+
