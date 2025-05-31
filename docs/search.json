@@ -60,14 +60,14 @@
     "href": "projects/GISCproject.html",
     "title": "Spatial Analysis of the Nitrate Contamination from Industrial Agriculture in Fresno County",
     "section": "",
-    "text": "This project examined how nitrate contamination in Fresno County’s domestic water wells correlated with the footprint of industrial agriculture, specifically almond and grape cultivation. Despite Fresno’s agricultural dominance and billion-dollar crop economy, we hypothesized that nitrate infiltration from fertilizers disproportionately affects rural residents—especially those in disadvantaged communities who rely on unregulated domestic wells for drinking water.\nThe project used post-2014 monitor well data to model nitrate concentrations through Ordinary Least Squares (OLS) regression and evaluated spatial clustering via Moran’s I. Variables included crop coverage (almond and grape) and well depth within a 4.8 km buffer. While well depth significantly predicted nitrate levels, crop type did not show a statistically significant effect, suggesting that unmeasured land-use or hydrological factors may better explain contamination patterns.\nThe study emphasized environmental justice concerns by mapping nitrate risk alongside disadvantaged community boundaries, revealing structural monitoring gaps. Over 90% of domestic wells in the region remain unmonitored, leaving thousands without adequate water quality protections. This research was intended to support future policy interventions targeting expanded groundwater monitoring and more equitable water infrastructure investments. However, based on the results there are more factors that must be considered.\n[Storymap Coming Soon]"
+    "text": "This project examined how nitrate contamination in Fresno County’s domestic water wells correlated with the footprint of industrial agriculture, specifically almond and grape cultivation. Despite Fresno’s agricultural dominance and billion-dollar crop economy, we hypothesized that nitrate infiltration from fertilizers disproportionately affects rural residents—especially those in disadvantaged communities who rely on unregulated domestic wells for drinking water.\nThe project used post-2014 monitor well data to model nitrate concentrations through Ordinary Least Squares (OLS) regression and evaluated spatial clustering via Moran’s I. Variables included crop coverage (almond and grape) and well depth within a 4.8 km buffer. While well depth significantly predicted nitrate levels, crop type did not show a statistically significant effect, suggesting that unmeasured land-use or hydrological factors may better explain contamination patterns.\nThe study emphasized environmental justice concerns by mapping nitrate risk alongside disadvantaged community boundaries, revealing structural monitoring gaps. Over 90% of domestic wells in the region remain unmonitored, leaving thousands without adequate water quality protections. This research was intended to support future policy interventions targeting expanded groundwater monitoring and more equitable water infrastructure investments. However, based on the results there are more factors that must be considered."
   },
   {
     "objectID": "projects/GISCproject.html#overview",
     "href": "projects/GISCproject.html#overview",
     "title": "Spatial Analysis of the Nitrate Contamination from Industrial Agriculture in Fresno County",
     "section": "",
-    "text": "This project examined how nitrate contamination in Fresno County’s domestic water wells correlated with the footprint of industrial agriculture, specifically almond and grape cultivation. Despite Fresno’s agricultural dominance and billion-dollar crop economy, we hypothesized that nitrate infiltration from fertilizers disproportionately affects rural residents—especially those in disadvantaged communities who rely on unregulated domestic wells for drinking water.\nThe project used post-2014 monitor well data to model nitrate concentrations through Ordinary Least Squares (OLS) regression and evaluated spatial clustering via Moran’s I. Variables included crop coverage (almond and grape) and well depth within a 4.8 km buffer. While well depth significantly predicted nitrate levels, crop type did not show a statistically significant effect, suggesting that unmeasured land-use or hydrological factors may better explain contamination patterns.\nThe study emphasized environmental justice concerns by mapping nitrate risk alongside disadvantaged community boundaries, revealing structural monitoring gaps. Over 90% of domestic wells in the region remain unmonitored, leaving thousands without adequate water quality protections. This research was intended to support future policy interventions targeting expanded groundwater monitoring and more equitable water infrastructure investments. However, based on the results there are more factors that must be considered.\n[Storymap Coming Soon]"
+    "text": "This project examined how nitrate contamination in Fresno County’s domestic water wells correlated with the footprint of industrial agriculture, specifically almond and grape cultivation. Despite Fresno’s agricultural dominance and billion-dollar crop economy, we hypothesized that nitrate infiltration from fertilizers disproportionately affects rural residents—especially those in disadvantaged communities who rely on unregulated domestic wells for drinking water.\nThe project used post-2014 monitor well data to model nitrate concentrations through Ordinary Least Squares (OLS) regression and evaluated spatial clustering via Moran’s I. Variables included crop coverage (almond and grape) and well depth within a 4.8 km buffer. While well depth significantly predicted nitrate levels, crop type did not show a statistically significant effect, suggesting that unmeasured land-use or hydrological factors may better explain contamination patterns.\nThe study emphasized environmental justice concerns by mapping nitrate risk alongside disadvantaged community boundaries, revealing structural monitoring gaps. Over 90% of domestic wells in the region remain unmonitored, leaving thousands without adequate water quality protections. This research was intended to support future policy interventions targeting expanded groundwater monitoring and more equitable water infrastructure investments. However, based on the results there are more factors that must be considered."
   },
   {
     "objectID": "projects/docs/adventures/lima-cusco.html",
@@ -81,14 +81,14 @@
     "href": "projects/GISproject.html",
     "title": "Camp Fire Evacuation Analysis",
     "section": "",
-    "text": "This project examined the Camp Fire in Paradise, CA by applying network analysis, spatial clustering, and land suitability modeling to identify evacuation shortcomings and propose infrastructure improvements grounded in findings from the literature review.\nTLDR - Final Presentation"
+    "text": "This project examined the Camp Fire in Paradise, CA by applying network analysis, spatial clustering, and land suitability modeling to identify evacuation shortcomings and propose infrastructure improvements grounded in findings from the literature review."
   },
   {
     "objectID": "projects/GISproject.html#overview",
     "href": "projects/GISproject.html#overview",
     "title": "Camp Fire Evacuation Analysis",
     "section": "",
-    "text": "This project examined the Camp Fire in Paradise, CA by applying network analysis, spatial clustering, and land suitability modeling to identify evacuation shortcomings and propose infrastructure improvements grounded in findings from the literature review.\nTLDR - Final Presentation"
+    "text": "This project examined the Camp Fire in Paradise, CA by applying network analysis, spatial clustering, and land suitability modeling to identify evacuation shortcomings and propose infrastructure improvements grounded in findings from the literature review."
   },
   {
     "objectID": "adventures/portugal-spain.html",
@@ -116,35 +116,35 @@
     "href": "projects/eir.html",
     "title": "Campus Point Faculty Housing EIR – Biology Focus",
     "section": "",
-    "text": "This Final EIR evaluates the biological impacts of a proposed mixed-use development at UCSB’s Campus Point, including faculty housing and classrooms. The report identifies sensitive habitats and species within an Environmentally Sensitive Habitat Area (ESHA), assesses construction and operational impacts, and proposes mitigation strategies consistent with CEQA guidelines. With a strong focus on vegetation loss, avian nesting disruption, and wildlife corridor fragmentation, the EIR presents feasible mitigation measures and supports the Off-Site Alternative as the environmentally superior option.\nRead full EIR HERE"
+    "text": "This Final EIR evaluates the biological impacts of a proposed mixed-use development at UCSB’s Campus Point, including faculty housing and classrooms. The report identifies sensitive habitats and species within an Environmentally Sensitive Habitat Area (ESHA), assesses construction and operational impacts, and proposes mitigation strategies consistent with CEQA guidelines. With a strong focus on vegetation loss, avian nesting disruption, and wildlife corridor fragmentation, the EIR presents feasible mitigation measures and supports the Off-Site Alternative as the environmentally superior option."
   },
   {
     "objectID": "projects/eir.html#overview",
     "href": "projects/eir.html#overview",
     "title": "Campus Point Faculty Housing EIR – Biology Focus",
     "section": "",
-    "text": "This Final EIR evaluates the biological impacts of a proposed mixed-use development at UCSB’s Campus Point, including faculty housing and classrooms. The report identifies sensitive habitats and species within an Environmentally Sensitive Habitat Area (ESHA), assesses construction and operational impacts, and proposes mitigation strategies consistent with CEQA guidelines. With a strong focus on vegetation loss, avian nesting disruption, and wildlife corridor fragmentation, the EIR presents feasible mitigation measures and supports the Off-Site Alternative as the environmentally superior option.\nRead full EIR HERE"
+    "text": "This Final EIR evaluates the biological impacts of a proposed mixed-use development at UCSB’s Campus Point, including faculty housing and classrooms. The report identifies sensitive habitats and species within an Environmentally Sensitive Habitat Area (ESHA), assesses construction and operational impacts, and proposes mitigation strategies consistent with CEQA guidelines. With a strong focus on vegetation loss, avian nesting disruption, and wildlife corridor fragmentation, the EIR presents feasible mitigation measures and supports the Off-Site Alternative as the environmentally superior option."
   },
   {
     "objectID": "projects/omahacasestudy.html#overview-1",
     "href": "projects/omahacasestudy.html#overview-1",
     "title": "Omaha Housing Development Suitability Analysis",
     "section": "Overview",
-    "text": "Overview\nThis ongoing project investigates Omaha’s housing crisis through the lens of equity, accessibility, and sustainable development. The city faces a persistent shortage of affordable housing, especially for working-class residents, renters, and first-time homebuyers. Rising rents, limited housing stock, and the prioritization of luxury developments have created deep structural barriers to stable housing—barriers that disproportionately impact low-income families and marginalized communities.\nThe analysis is organized into several dimensions:\nDemographics & Income: A significant portion of Omaha’s population is rent-burdened, with over 44% of households spending more than 30% of their income on housing. Homeownership remains inaccessible for many due to stagnant wages and inflated property values.\nEthnic & Racial Disparities: Communities of color, particularly Black and Latino residents, are more likely to face housing insecurity and displacement due to discriminatory lending, historic segregation patterns, and limited access to credit or wealth-building opportunities.\nPolitical & Regulatory Environment: Zoning codes in Omaha have traditionally favored single-family, suburban-style development, limiting the feasibility of denser, more inclusive housing models like condominiums. Policy interventions have lagged behind market pressures, reinforcing a two-tier housing system.\nBuilt Environment & Infrastructure: Omaha’s urban design favors sprawl and automobile dependency, making affordable housing on the city’s outskirts functionally inaccessible for those without reliable transit. At the same time, the core city lacks mid-density developments that support walkability, transit access, and economic diversity.\nThis project uses a GIS-based Land Suitability Analysis (LSA) to identify optimal locations for new condominium developments that align with sustainability and equity goals. Layers include proximity to transit, schools, parks, and population density, overlaid with zoning data to pinpoint viable parcels for infill development. The final objective is to propose a housing model that fosters ownership, reduces displacement, and advances community resilience.\n[Project Coming Soon]"
+    "text": "Overview\nThis ongoing project investigates Omaha’s housing crisis through the lens of equity, accessibility, and sustainable development. The city faces a persistent shortage of affordable housing, especially for working-class residents, renters, and first-time homebuyers. Rising rents, limited housing stock, and the prioritization of luxury developments have created deep structural barriers to stable housing—barriers that disproportionately impact low-income families and marginalized communities.\nThe analysis is organized into several dimensions:\nDemographics & Income: A significant portion of Omaha’s population is rent-burdened, with over 44% of households spending more than 30% of their income on housing. Homeownership remains inaccessible for many due to stagnant wages and inflated property values.\nEthnic & Racial Disparities: Communities of color, particularly Black and Latino residents, are more likely to face housing insecurity and displacement due to discriminatory lending, historic segregation patterns, and limited access to credit or wealth-building opportunities.\nPolitical & Regulatory Environment: Zoning codes in Omaha have traditionally favored single-family, suburban-style development, limiting the feasibility of denser, more inclusive housing models like condominiums. Policy interventions have lagged behind market pressures, reinforcing a two-tier housing system.\nBuilt Environment & Infrastructure: Omaha’s urban design favors sprawl and automobile dependency, making affordable housing on the city’s outskirts functionally inaccessible for those without reliable transit. At the same time, the core city lacks mid-density developments that support walkability, transit access, and economic diversity.\nThis project uses a GIS-based Land Suitability Analysis (LSA) to identify optimal locations for new condominium developments that align with sustainability and equity goals. Layers include proximity to transit, schools, parks, and population density, overlaid with zoning data to pinpoint viable parcels for infill development. The final objective is to propose a housing model that fosters ownership, reduces displacement, and advances community resilience."
   },
   {
     "objectID": "projects/Op-Ed.html",
     "href": "projects/Op-Ed.html",
     "title": "Agroecology and the Future of Nebraska Farming",
     "section": "",
-    "text": "This op-ed advocates for agroecology as a sustainable alternative to industrial farming in Nebraska. Drawing from personal experience and research, it explores the environmental and economic challenges faced by small farmers and emphasizes the need for policy reform, financial incentives, and education to support regenerative agricultural practices.\nRead full Op-Ed HERE"
+    "text": "This op-ed advocates for agroecology as a sustainable alternative to industrial farming in Nebraska. Drawing from personal experience and research, it explores the environmental and economic challenges faced by small farmers and emphasizes the need for policy reform, financial incentives, and education to support regenerative agricultural practices."
   },
   {
     "objectID": "projects/Op-Ed.html#overview",
     "href": "projects/Op-Ed.html#overview",
     "title": "Agroecology and the Future of Nebraska Farming",
     "section": "",
-    "text": "This op-ed advocates for agroecology as a sustainable alternative to industrial farming in Nebraska. Drawing from personal experience and research, it explores the environmental and economic challenges faced by small farmers and emphasizes the need for policy reform, financial incentives, and education to support regenerative agricultural practices.\nRead full Op-Ed HERE"
+    "text": "This op-ed advocates for agroecology as a sustainable alternative to industrial farming in Nebraska. Drawing from personal experience and research, it explores the environmental and economic challenges faced by small farmers and emphasizes the need for policy reform, financial incentives, and education to support regenerative agricultural practices."
   },
   {
     "objectID": "about.html",
@@ -159,5 +159,40 @@
     "title": "the pups",
     "section": "",
     "text": "Royce and Phantom (sister and brother)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQueen Phoebe\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI absolutely cherish all dogs. I’m the kind of person who’s immediately drawn to the dog in public. Their carefree attitude and unconditional happiness are something I genuinely admire, and it’s refreshing to be around that kind of pure energy. Dogs love you no matter your race, gender, or values, and there’s nothing more beautiful than that kind of loyalty.\nI have two French bulldogs who are my entire world. Royce, the white one, is a few years older and has fully embraced her role as the big sister. She’s calm, sweet, and patient. Phantom, the gray one, came later, and I was much more involved in raising him. He’s the perfect balance of affectionate and energetic. Whether he’s curled up next to you or running around with a toy in his mouth (which is basically always), he’s just the kind of dog that lights up a room from wanting to play or barking at you if you don’t entertain him.\nWe also have a yellow lab that is the smartest pup around. She (Phoebe) puts the frenchies to shame (not that they were ever on her level to begin with). She can do almost any trick in the book and then some. One Christmas I got her a puzzle board that you put treats in and she figured out the trick within minutes. Also, as you can see from the photos she is a model and loves to hangout on the beach and keep me company while I surf.\nOver the years, we’ve had all sorts of pets, parrots, hamsters, guinea pigs, and even a potbelly teacup pig, but none of them compare to the pups. These days, we keep it simple: just the pups. And honestly, that’s more than enough with how much attention you must give them. They may be only a tiny part of your life, but you are their entire life, so understanding this and giving them the love they deserve should be the mission.\n\n\n\n\n\nRoyce soaking up the sun.\n\n\nRoyce and Phantom together begging for food.\n\n\nPhantom ready to pounce.\n\n\nRoyce looking regal.\n\n\nPhoebe in the garden.\n\n\nPhoebe posing in the grass.\n\n\nPhoebe watching me surf."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ethan Mathews",
+    "section": "",
+    "text": "Hey there, welcome to my website! My name is Ethan Mathews, and I created this space to showcase my academic work and share a bit of my personal journey. If you have any questions or would like to connect or collaborate, feel free to reach out through the social links I’ve provided.\nI’m originally from Omaha, Nebraska, but I’ve spent the past 15 years in Encinitas, California, a completely different environment that helped shape who I am. I’ve always loved being outdoors, whether at the beach or in the mountains. I grew up playing just about every sport, but the one that stuck with me was rugby, which I played for three out of my four years in high school. I considered playing in college, but at that point, I knew I needed to dedicate myself to academics.\nFast forward to now, I’m graduating from UC Santa Barbara with a Bachelor of Arts in Environmental Studies. I’ve maintained a competitive GPA throughout my academic journey and focused on applying what I learn to real-world issues. My time at UCSB has been about more than just coursework; I’ve developed practical skills, built meaningful relationships with professors and mentors, and sought out opportunities to leverage my education to align with my long-term goals.\nI’m incredibly passionate about water management and sustainability. With an interdisciplinary background, I’m driven to influence environmental policy and help shape a more sustainable future. My next step is applying to UC Berkeley School of Law, where I hope to continue bridging the gap between science, policy, and the communities most affected by environmental challenges."
+  },
+  {
+    "objectID": "projects/GISCproject.html#final-analysis",
+    "href": "projects/GISCproject.html#final-analysis",
+    "title": "Spatial Analysis of the Nitrate Contamination from Industrial Agriculture in Fresno County",
+    "section": "Final Analysis",
+    "text": "Final Analysis\n[Storymap Coming Soon]"
+  },
+  {
+    "objectID": "projects/eir.html#final-report",
+    "href": "projects/eir.html#final-report",
+    "title": "Campus Point Faculty Housing EIR – Biology Focus",
+    "section": "Final Report",
+    "text": "Final Report\nRead full EIR HERE"
+  },
+  {
+    "objectID": "projects/GISproject.html#final-analysis",
+    "href": "projects/GISproject.html#final-analysis",
+    "title": "Camp Fire Evacuation Analysis",
+    "section": "Final Analysis",
+    "text": "Final Analysis\nTLDR - Final Presentation"
+  },
+  {
+    "objectID": "projects/omahacasestudy.html#final-case-study",
+    "href": "projects/omahacasestudy.html#final-case-study",
+    "title": "Omaha Housing Development Suitability Analysis",
+    "section": "Final Case Study",
+    "text": "Final Case Study\n[Project Coming Soon]"
   }
 ]
