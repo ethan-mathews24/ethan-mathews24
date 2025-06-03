@@ -21,10 +21,13 @@ toc: true
 <div style="text-align: center; margin-bottom: 2rem;">
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
+# installing packages
 library(leaflet)
+library(leaflet.extras)
 library(dplyr)
 
-# Travel data with region info
+
+# Travel data
 travel_points <- data.frame(
   place = c(
     "Rome, Italy", "Cinque Terre, Italy", "Pisa, Italy", "Venice, Italy", "Murano, Italy",
@@ -33,7 +36,8 @@ travel_points <- data.frame(
     "Sitka, Alaska", "Port Alexander, Alaska",
     "Whistler, Canada", "Vancouver, Canada",
     "Scottsdale, Arizona", "Salt Lake City, Utah", "Omaha, Nebraska", "Bend, Oregon", "Seattle, Washington", "Miami, Florida",
-    "Barcelona, Spain", "Seville, Spain", "Granada, Spain", "Porto, Portugal", "Lisbon, Portugal", "Sintra, Portugal",  "Encinitas, California"
+    "Barcelona, Spain", "Seville, Spain", "Granada, Spain", "Porto, Portugal", "Lisbon, Portugal", "Sintra, Portugal",
+    "Encinitas, California"
   ),
   lat = c(
     41.9028, 44.1194, 43.7228, 45.4408, 45.4561,
@@ -42,7 +46,8 @@ travel_points <- data.frame(
     57.0516, 56.2522,
     50.1163, 49.2827,
     33.4942, 40.7608, 41.2565, 44.0582, 47.6062, 25.7617,
-    41.3851, 37.3891, 37.1773, 41.1579, 38.7223, 38.8029, 33.0369
+    41.3851, 37.3891, 37.1773, 41.1579, 38.7223, 38.8029,
+    33.0369
   ),
   lon = c(
     12.4964, 9.7159, 10.4017, 12.3155, 12.3533,
@@ -51,7 +56,8 @@ travel_points <- data.frame(
     -135.3300, -134.6450,
     -122.9574, -123.1207,
     -111.9261, -111.8910, -95.9345, -121.3153, -122.3321, -80.1918,
-    2.1734, -5.9845, -3.5986, -8.6291, -9.1393, -9.3884, -117.2919
+    2.1734, -5.9845, -3.5986, -8.6291, -9.1393, -9.3884,
+    -117.2919
   ),
   region = c(
     rep("Europe", 5),
@@ -61,21 +67,35 @@ travel_points <- data.frame(
     rep("Canada", 2),
     rep("USA", 6),
     rep("Europe", 6),
-     "Home" # adding new Spain & Portugal cities to Europe
+    "Home"
   )
 )
 
-# Create a custom home icon
+# Add UCSB to the dataset
+travel_points <- rbind(
+  travel_points,
+  data.frame(
+    place = "UCSB",
+    lat = 34.4140,
+    lon = -119.8489,
+    region = "School"
+  )
+)
+
+# Create custom icons
 home_icon <- makeAwesomeIcon(
   icon = 'home', markerColor = 'blue', iconColor = 'white', library = 'fa'
 )
+school_icon <- makeAwesomeIcon(
+  icon = 'university', markerColor = "purple", iconColor = 'white', library = 'fa'
+)
 
-# Create the map with Encinitas as a home icon and others as circle markers
+# Build the map
 leaflet(travel_points) %>%
   addProviderTiles(providers$OpenStreetMap) %>%
-  # Add circle markers for all except Encinitas
+  # Add circle markers for all except Encinitas and UCSB
   addCircleMarkers(
-    data = subset(travel_points, place != "Encinitas, California"),
+    data = subset(travel_points, place != "Encinitas, California" & place != "UCSB"),
     ~lon, ~lat,
     fillColor = "red",
     color = "white",
@@ -83,7 +103,8 @@ leaflet(travel_points) %>%
     weight = 1,
     fillOpacity = 0.9,
     popup = ~paste0("<strong>", place, "</strong>"),
-    clusterOptions = markerClusterOptions()
+    clusterOptions = markerClusterOptions(),
+    group = "places"  # group name for search
   ) %>%
   # Add the home icon for Encinitas
   addAwesomeMarkers(
@@ -91,11 +112,27 @@ leaflet(travel_points) %>%
     ~lon, ~lat,
     icon = home_icon,
     popup = ~paste0("<strong>Home: ", place, "</strong>")
+  ) %>%
+  # Add the school icon for UCSB
+  addAwesomeMarkers(
+    data = subset(travel_points, place == "UCSB"),
+    ~lon, ~lat,
+    icon = school_icon,
+    popup = ~paste0("<strong>School: ", place, "</strong>")
+  ) %>%
+  
+  # Add reset view button
+  addEasyButton(
+    easyButton(
+      icon = "fa-globe", title = "Reset View",
+      onClick = JS("function(btn, map){ map.setView([20, 0], 2); }")
+    )
   )
 
 
 ```
 </div>
+
 
 # Travel Blogs
 

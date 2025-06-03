@@ -1,6 +1,0 @@
----
-title: "CV"
-format: html
----
-
-![](files/resume2025.pdf){width="95%" height="700"}

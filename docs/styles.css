@@ -80,6 +80,16 @@ a:hover {
   margin: 1rem;
 }
 
+/* Make all cluster markers green */
+.marker-cluster-small div,
+.marker-cluster-medium div,
+.marker-cluster-large div {
+  background-color: #28a745 !important;  /* green background */
+  color: white !important;               /* white text for numbers */
+  border: 2px solid #28a745 !important;  /* green border */
+}
+
+
 
 
 
