@@ -89,6 +89,28 @@ a:hover {
   border: 2px solid #28a745 !important;  /* green border */
 }
 
+/* Custom styling for each pet name */
+.pet-royce {
+  color: purple;
+  font-weight: bold;
+}
+.pet-phantom {
+  color: goldenrod;  /* rich gold tone */
+  font-weight: bold;
+}
+.pet-phoebe {
+  color: hotpink;  /* vibrant pink */
+  font-weight: bold;
+}
+
+/* Style for personal name */
+.my-name {
+  font-weight: bold;
+  color: #0a3d62;  /* Dark blue (same as your site's primary color) */
+}
+
+
+
 
 
 
