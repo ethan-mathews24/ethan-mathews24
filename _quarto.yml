@@ -29,6 +29,8 @@ website:
         text: projects
       - href: past-adventures.qmd
         text: past adventures
+      - href: files/resume2025.pdf
+        text: CV
   page-footer:
     background: light # or `dark`
     left: Copyright 2025, Ethan Mathews

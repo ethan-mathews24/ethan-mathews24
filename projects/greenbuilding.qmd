@@ -33,32 +33,38 @@ utility <- read.csv("data/Utilitydata.csv")
 
 ```{r}
 
-# creating a new data frame and selecting on necessary rows
+# creating a new data frame and selecting the necessary rows
 green_clean <- green |> 
   filter(Location %in% c("Ellison", "National"))
 
 
 # EUI Data Visual 
-ggplot(data = green_clean,
-       aes(x = Location,
-           y = EUI,
-           fill = Location)) +
+ggplot(data = green_clean, # data frame being used 
+       aes(x = Location, # assigning the x-axis 
+           y = EUI, # assigning the y-axis
+           fill = Location)) + # ensuring the locations will be different colors
   
-  geom_col() +
+  # type of visual that is being used 
+  geom_col() +  
   
-  geom_text(aes(label = round(EUI, 1)),  
+  # adding labels to the top of the bars
+  geom_text(aes(label = round(EUI, 1)), 
             vjust = -0.5,                
             size = 2.5) + 
   
-  labs(title = "Ellison Hall Energy Use Intensity Compared to the National Average ",
+  # changing and cleaning the title as well as the x & y axis
+  labs(title = "Ellison Hall Energy Use Intensity Compared to the National Average",
        x = "Site Location",
        y = "Energy Use Intensity (kBtu/ft²)") +
   
+  # manually changing the colors of the bar chart
   scale_fill_manual(values = c("Ellison" = "blue4",
                      "National" = "red4")) +
   
+  # changing the theme to a preset template
   theme_bw() + 
   
+  # manually changing the theme to include different elements from the preset template "bw"
   theme(plot.title = element_text(size = 10),
         panel.grid.major = element_line(color = NA),
         panel.grid.minor = element_line(color = NA),
@@ -90,19 +96,24 @@ ggplot(data = green_water,
   
   geom_col() +
   
+   # type of visual that is being used
   geom_text(aes(label = round(Water, 1)),  
             vjust = -0.5,                
             size = 2.5) +
   
+  # changing and cleaning the title as well as the x & y axis
   labs(title = "Ellison Hall Annual Water Consumption Compared to the Baseline ",
        x = "Location",
        y = "Water Consumption (gallons)") +
   
+  # manually changing the colors of the bar chart
   scale_fill_manual(values = c("Ellison" = "blue4",
                      "Baseline" = "red4")) +
   
+  # changing the theme to a preset template
   theme_bw() + 
   
+  # manually changing the theme to include different elements from the preset template "bw"
   theme(plot.title = element_text(size = 10),
         panel.grid.major = element_line(color = NA),
          panel.grid.minor = element_line(color = NA),
@@ -113,19 +124,23 @@ ggplot(data = green_water,
 
 ```{r}
 
-# converting values into a common unit (kBtu)
+# converting values into a common unit (kBtu) while cleaning the column names
 utility_clean <- utility |> 
   clean_names() |> 
   mutate(
     electric_meter_usage = as.numeric(gsub("[^0-9.]", "", electric_meter_usage)) * 3.412,
     gas_meter_usage = as.numeric(gsub("[^0-9.]", "", gas_meter_usage)) * 1.037) |> 
 
+  # ensuring that the months will be plotted in the same order as the water and electricity year
   mutate(date = as_factor(date),
          date = fct_relevel(date, 
                             "7/1", "8/1", "9/1", "10/1", "11/1", "12/1", "1/1", "2/1", "3/1", "4/1", "5/1", "6/1")) |> 
 
 
+  # selecting the necessaey columns for visual
   select(date, electric_meter_usage, gas_meter_usage) |> 
+  
+  # putting the dataset in long format so we can group and compare the electric and gas meter usage
   pivot_longer(cols = c(electric_meter_usage, gas_meter_usage),
                names_to = "meter_type",
                values_to = "usage_kbtu")
@@ -135,27 +150,33 @@ utility_clean <- utility |>
 ```{r}
 
 # Electric vs. Natural Gas usage Visual
-ggplot(data = utility_clean,
-       aes(x = date,
-           y = usage_kbtu,
-           color = meter_type,
-           group = meter_type)) +
+ggplot(data = utility_clean, # dataset being used 
+       aes(x = date, # assigning the x-axis
+           y = usage_kbtu, # assigning the y-axis
+           color = meter_type, # ensuring the colors will different based on the meter type 
+           group = meter_type)) + # grouping the electric and gas meters together 
   
+  # visual being used 
   geom_line(linewidth = 1) +
   
+  # visual being used 
   geom_point(size = 2) +
   
+  # manually changing the colors 
   scale_color_manual(values = c("electric_meter_usage" = "yellow1", "gas_meter_usage" = "darkorchid3"),
                       labels = c("Electric Grid", "Natural Gas")) +
   
+  # changing and cleaning the title as well as the x & y axis
   labs(title = "Ellison Hall's Energy Use by Calender Month (2021-2022)",
        x = "",
        y = "Site Energy (kBtu)", # cleaning the title names
       color = "") + 
   
+  # changing the theme to a preset template
   theme_bw() +
 
- theme(
+  # manually changing the theme to include different elements from the preset template "bw"
+  theme(
   panel.background = element_rect(fill = "white"), # changing the background color
   plot.title = element_text(size = 9),
   panel.grid.major = element_line(color = NA), # removing the color to the grid lines

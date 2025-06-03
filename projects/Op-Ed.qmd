@@ -1,6 +1,6 @@
 ---
 title: "Agroecology and the Future of Nebraska Farming"
-description: "An op-ed exploring how agroecological practices can offer a sustainable path forward for small farmers in Nebraska."
+description: "An op-ed exploring how agroecological practices can offer a sustainable path forward for farmers in Nebraska."
 image: media/agroecology.JPEG
 toc: true
 ---
@@ -10,7 +10,5 @@ toc: true
 This op-ed advocates for agroecology as a sustainable alternative to industrial farming in Nebraska. Drawing from personal experience and research, it explores the environmental and economic challenges faced by small farmers and emphasizes the need for policy reform, financial incentives, and education to support regenerative agricultural practices.
 
 # Final Op-Ed
-
-Read full Op-Ed [HERE](files/oped.pdf)
 
 ![](files/oped.pdf){width="95%" height="700"}
