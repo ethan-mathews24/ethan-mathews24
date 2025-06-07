@@ -191,4 +191,4 @@ ggplot(data = utility_clean, # dataset being used
 
 ## Final Case Study
 
-\[Project Coming Soon\]
+![](files/ellisonhallcasestudy.pdf){width="95%" height="700"}

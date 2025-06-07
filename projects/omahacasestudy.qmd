@@ -7,8 +7,6 @@ toc: true
 
 ## Overview
 
-## Overview
-
 This project investigates Omaha’s housing crisis through the lens of equity, accessibility, and ownership within the community. The city faces a persistent shortage of affordable housing, especially for working-class residents, renters, and first-time homebuyers. Rising rents, limited housing stock, and the prioritization of luxury developments have created deep structural barriers to stable housing—barriers that disproportionately impact low-income families and marginalized communities.
 
 The analysis is organized into several dimensions:
@@ -25,10 +23,6 @@ This project also uses a GIS-based Land Suitability Analysis (LSA) to identify o
 
 ## Final Case Study
 
-\[Project Proposal Coming Soon\]
+ESRI Storymap [HERE]()
 
-\[Storymap (GIS Analysis) Coming Soon\]
-
-
-
-
+![](files/....pdf){width="95%" height="700"}
