@@ -23,6 +23,6 @@ This project also uses a GIS-based Land Suitability Analysis (LSA) to identify o
 
 ## Final Case Study
 
-ESRI Storymap [HERE]()
+ESRI Storymap [HERE](https://storymaps.arcgis.com/stories/b50b9e6ed11441c2934de250c4ba1ad1)
 
-![](files/....pdf){width="95%" height="700"}
+![](files/ENVS 155 - Final Project Proposal.pdf){width="95%" height="700"}
