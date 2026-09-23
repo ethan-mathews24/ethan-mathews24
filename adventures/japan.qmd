@@ -10,6 +10,12 @@ lightbox: auto
 
 ### Day 1 - Touchdown!!
 
+::: {layout="[1, 1]"}
+![](media/sushi.png){group="touchdown" description="First Plate of Sushi"}
+
+![](media/lanterns.png){group="touchdown" description="Beautiful Building Covered in Lanterns"}
+:::
+
 It's a surreal feeling when the planning and anticipation finally come to fruition. We woke at 4:30am for a long day of travel, and it was already worth it. Work had been relentless. Morgan and I had been going nonstop to earn this trip, and I'd just wrapped up 40 hours in four days. In the millisecond between the first sound of the alarm and my eyes opening, I felt something I hadn't felt in a long time: pure, blissful euphoria. I knew what was in store, and I couldn't wait another second. We hit the road at 5am to reach the airport by 8.
 
 We always leave plenty of time when traveling, and with the stories of long TSA lines lately, we planned for the worst. Luckily, we breezed through security in minutes, the easiest line we've ever done. That gave us time to relax in the United Lounge, where we toasted the start of the trip with a few mimosas (high spirits, figuratively and literally). Over cheap champagne and microwaved eggs, I kept planning. We'd sorted our must-dos into three categories: shopping, food, and sights. I used Google 'My Maps', which lets you drop pins and color-code them by category, so we could see everything geographically. Tokyo is an incredibly stimulating city with little downtime, so knowing which areas cluster together makes it much easier to plan each day. At 11:20, it was time to board. Next stop: Tokyo.
@@ -25,6 +31,8 @@ The dinner hit the spot, but as an American, I wanted more. On the walk back, I 
 
 
 ### Day 2 - Cherry Blossoms and Shrines
+
+
 
 We woke up early after another restless night, the city's energy making it impossible to sleep deeply. I woke every three hours and even considered heading out for 3am ramen, but I was asleep again before I could decide. At 6:30am I hit the hotel gym, a nice space with cardio machines and dumbbells up to 50 pounds. First on the agenda was a 7-Eleven run for quick, easy food to hold us over through the morning.
 
