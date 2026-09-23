@@ -29,11 +29,11 @@ website:
         text: projects
       - href: past-adventures.qmd
         text: past adventures
-      - href: files/resume.pdf
+      - href: files/CV2026.pdf
         text: CV
   page-footer:
     background: light # or `dark`
-    left: Copyright 2025, Ethan Mathews
+    left: Copyright 2026, Ethan Mathews
 
 filters:
   - lightbox
