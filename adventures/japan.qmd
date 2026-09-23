@@ -1,6 +1,6 @@
 ---
 title: "Japan"
-description: "A journey through history and architectural brilliance, highlighting the lasting influence of Spanish design and cultural heritage. 03/25/26 - 04/06/26"
+description: "Ten days across Tokyo, Kyoto, and Osaka, chasing cherry blossoms, ramen, and everything in between. 03/25/26 - 04/06/26"
 image: media/japan.JPG
 toc: true
 filters:
@@ -65,7 +65,7 @@ With our bellies full of top-tier ramen and a few highballs, we made our way bac
 ### Day 3 - Tsukiji, Fried Bread, and Asakusa
 
 ::: {layout="[[1, 1], [1, 1]]"}
-![](media/nigiri.png){group="food" description="Tuna Nigiri from the Tsukiji Fish Market "}
+![](media/nigiri.png){group="food" description="Tuna and Salmon Nigiri from the Tsukiji Fish Market "}
 
 ![](media/scallops.png){group="food" description="Grilled Scallops from the Tsukiji Fish Market"}
 
