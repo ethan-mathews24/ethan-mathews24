@@ -8,15 +8,19 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/ethan-mathews-3b544729a/
+      target: _blank
     - icon: github
       text: GitHub
       href: https://github.com/ethan-mathews24
+      target: _blank
     - icon: envelope
       text: Email
       href: mailto:ethankmathews@yahoo.com
+      target: _blank
     - icon: file-text
       text: Resume
       href: https://ethan-mathews24.github.io/ethan-mathews24/files/resume2026.pdf
+      target: _blank
 ---
 
 Hey there, welcome to my website! My name is [Ethan Mathews]{.my-name}, and I created this space to showcase my academic and research work and share a bit of my personal journey. If you have any questions or would like to connect or collaborate, feel free to reach out through the social links below.
