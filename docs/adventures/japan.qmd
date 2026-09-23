@@ -8,7 +8,7 @@ filters:
 lightbox: auto
 ---
 
-### Day 1 - Touchdown!!
+### Day 1 - Touchdown In Japan
 
 ::: {layout="[1, 1]"}
 ![](media/sushi.png){group="touchdown" description="First Plate of Sushi"}
