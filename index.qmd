@@ -1,9 +1,8 @@
 ---
-image: media/profilepic1.png
+image: media/BRENHEAD.png
 toc: false
 about: 
-  template: jolla
-  image-shape: round
+  template: trestles
   image-width: 19em
   links:
     - icon: linkedin
