@@ -137,6 +137,17 @@ That brought the day to a close. We headed back toward the hotel, but first came
 
 ### Day 6 - Bamboo, Monkeys, and a Downpour
 
+
+::: {layout="[[1, 1], [1, 1]]"}
+![](media/flowers.png){group="downpour" description=""}
+
+![](media/monkey.png){group="downpour" description="Monkey Chilling in the Tree... Eating."}
+
+![](media/sunsetinthecity.png){group="downpour" description=""}
+
+![](media/bamboo.png){group="downpour" description="Bamboo Forest"}
+:::
+
 Not going to lie, we woke up late, very late. Our room had no windows, so we had no concept of what time it was, and by the time we got up it was already 8am. With such a late start, we knew the places we wanted to visit would be crowded. The first stop was a 30-minute train ride away. The forecast called for rain, but as a silly Californian who dismisses any rain in the forecast, I ignored the complimentary umbrellas at the hotel entrance. We made our way to Arashiyama, home to the famous bamboo forest, and it was incredible. Filled with old-school architecture and lanterns and signs hanging over the streets and alleys. The forest itself was vast, low-lit, and secluded. One stop along the way was Tenryu-ji, a deeply spiritual temple in Kyoto's Sagano district. It's the head temple of the Tenryu-ji branch of Rinzai Zen Buddhism, founded in 1339 by Shogun Ashikaga Takauji. We walked through its many gardens and exhibits before finally emerging into town in search of food.
 
 There are plenty of quaint little restaurants there, but most don't open until 11:30 or noon. We found an udon place that supposedly opened at 11, but it didn't open until 11:30, so we wandered for half an hour hoping to find something else. No luck, so we went back to the original spot because everything looked so delicious. At many traditional sit-down restaurants in Japan, whether it's hot pot, barbecue, katsu, ramen, or udon, the main dish comes with a lot of complementary sides. Here, we got a bowl of udon with fried chicken and crab, pickles, rice topped with seaweed salad and minced chicken, and miso soup. It was incredible, and of course we added a few rounds of chilled sake. Afterward, we noticed a matcha shop serving matcha and sakura ice cream, and we had to take advantage of the convenience.
@@ -219,10 +230,4 @@ We slowly made our way back toward the hotel, and on the way I found a gyoza sho
 We continued the walk home, and along the way I spotted an archery stand where you can shoot eight arrows. I needed to feel like a samurai, and we still had plenty of yen to spend, so I figured it was worth it. It was super fun, super hard, and very satisfying when I hit the target. My first shot was my best, just centimeters from the bullseye. The rest weren't as good. We finally got back to the hotel and had only an hour before heading out again for teamLab, a light show in Nagai Park. They create incredible interactive art displays, all lights and colors, and it's hard to put into words. The designs were intricate: massive eggs scattered through the forest, giant eggs you could jump into and push around, and glowing tubes shooting up into the sky in shifting colors. The best by far was the cherry blossom installation, where the lights hitting the blossoms made them look like crystals. It was an emotional experience, because I knew deep down it could be the last time I'd see such marvelous trees. I know I'll come back to Japan, but probably not during cherry blossom season, so it was a bittersweet moment.
 
 After the exhibit, we headed home, but before calling it a night we went back to the ramen shop from the night before, where we went all out: three rounds of drinks and our own bowls of ramen with gyoza. It was a great way to cap off the trip. We got home just after 10pm and went to sleep, well fed, well buzzed, and well satisfied with an incredible trip.
-
-
-
-
-
-
 
