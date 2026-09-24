@@ -90,7 +90,14 @@ Shibuya is the city that never sleeps, and I'll stand by that. New York and LA h
 
 
 
-### Day 4 - Mount Fuji and a Proposal
+### Day 4 - Mount Fuji Day Trip
+
+::: {layout="[1, 1]"}
+![](media/mountain.png){group="Fuji"Mount Fuji in All It's Glory"}
+
+![](media/tree.png){group="Fuji" description="A Wonderful Tree at Kitaguchi Hongu Fuji Sengen Shrine"}
+:::
+
 
 It was an early day. We woke up a little before 5, or rather Morgan did, while I slept as long as I could since I hadn't been feeling 100%. The plan was to see Mount Fuji in all its glory. We were hoping for clear skies, since the mountain is mostly hidden by clouds this time of year. When we left the hotel to be picked up around 5:50, we were surprised to find plenty of people still out drinking at tables, laughing and having a great time. Most were our age, and I can't blame them, because it looked like a blast. The drive to our first stop took about 1 hour and 45 minutes, and it was important to arrive early to beat the crowds. While I was journaling about the previous day's adventures, I looked up from my phone and there it was: Mount Fuji, clear as day. It still had a ton of snow on it, which made it even more beautiful.
 
