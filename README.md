@@ -1,6 +1,6 @@
 ## 👋 Hi! My name is Ethan Mathews!
 
-<sup><sub>Personal website - https://ethan-mathews24.github.io/<sup><sub>
+<sub>Personal website - https://ethan-mathews24.github.io/<sup>
 
 LinkedIn - https://www.linkedin.com/in/ethan-mathews-3b544729a/
 
