@@ -11,12 +11,15 @@ Email - ethansimonmathews@gmail.com
 Graduate research assistant to Dr. Debra Perrone, working with Rebecca Nelson (Director, Melbourne Centre for Law and the Environment) on a decade-long study of how agencies across the 17 westernmost U.S. states regulate new uses of groundwater.
 
 
+
 🌱 Currently Learning
   
 Master of Environmental Data Science student at UCSB's Bren School, focused on groundwater and using data science to solve environmental problems.
 
 
+
 🛠️ **Tools:** [R, Python]
+
 
 
 🎓 Education
@@ -25,7 +28,11 @@ Master of Environmental Data Science student at UCSB's Bren School, focused on g
   - B.A. Environmental Studies, UC Santa Barbara (2025), 3.98 GPA, Summa Cum Laude
   - Involvement: Environmental Agency Board, UCSB Environmental Law Club
 
-- 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: ...
+
+😄 Pronouns: He/Him
+
+
+
+⚡ Fun fact:
 -->
