@@ -30,7 +30,7 @@ Master of Environmental Data Science student at UCSB's Bren School, focused on g
 
 
 
-## 🩻📷⛓️‍💥 Pronouns: He/Him
+## 🩻📷⛓️‍💥 Pronouns: ###He/Him
 
 
 
